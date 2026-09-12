@@ -1,0 +1,256 @@
+# -*- coding: utf-8 -*-
+"""Coordination polyhedra for the structure panels of the two papers.
+
+The figure has to show what the index measures, so the geometry it draws must be
+the geometry the index reads: the same framework metal, the same bridging anion,
+the same deposited coordinates. Nothing here is idealised or redrawn by hand.
+
+For each chosen deposition the framework metal sites are replicated over a
+display box, each metal's coordinating anions are collected, and the convex hull
+of those anions is written out as triangular faces for the surface plus the
+subset of hull edges that separate non-coplanar faces, which is what gives a
+clean polyhedron outline instead of a triangulated mesh. Spectator cations are
+written as sphere centres and the cell as twelve line segments.
+
+Two panel sets are defined. The database paper takes a lead-halide ladder and
+the methods paper a copper-halide one, so that neither figure repeats the other:
+the same structure drawn in two papers would be a duplicate figure, and the
+methods paper is the one going out first.
+
+Usage
+    python export_polyhedra.py npj [-o npj_panels.json]
+    python export_polyhedra.py jac [-o jac_panels.json]
+"""
+import argparse
+import json
+import math
+import os
+import warnings
+
+warnings.filterwarnings("ignore")
+
+CIF_ROOT = os.path.join("C:\\", "Users", "pzgft", "CODdata", "cif", "cif")
+
+# cod, framework metal, bridging anion, spectator cation, label. A panel may
+# have no spectator cation, in which case the structure is the framework alone.
+# The display box is not set here: it is chosen from the connectivity, so that
+# each panel repeats along the directions the sublattice extends along and along
+# no others.
+SETS = {
+    # the database paper: one lead-halide family, rank 0 to 3
+    "npj": [
+        dict(cod="1538416", metal="Pb", anion="Br", cation="Cs",
+             name="Cs4PbBr6", pretty="Cs_4PbBr_6"),
+        dict(cod="4127358", metal="Pb", anion="I", cation="Cs",
+             name="CsPbI3-delta", pretty="\delta-CsPbI_3"),
+        dict(cod="9009140", metal="Pb", anion="I", cation=None,
+             name="PbI2", pretty="PbI_2"),
+        dict(cod="1530681", metal="Pb", anion="Br", cation="Cs",
+             name="CsPbBr3", pretty="CsPbBr_3"),
+    ],
+    # the methods paper: the copper halides it is validated on, rank 0 to 3
+    "jac": [
+        dict(cod="7246298", metal="Cu", anion="Cl", cation="Cs",
+             name="Cs3Cu2Cl5", pretty="Cs_3Cu_2Cl_5"),
+        dict(cod="1536279", metal="Cu", anion="I", cation="Cs",
+             name="CsCu2I3", pretty="CsCu_2I_3"),
+        dict(cod="1528214", metal="Cu", anion="Cl", cation="Rb",
+             name="Rb2CuCl4", pretty="Rb_2CuCl_4"),
+        dict(cod="7222858", metal="Cu", anion="I", cation=None,
+             name="CuI", pretty="CuI"),
+    ],
+}
+
+
+def cif_path(cod):
+    return os.path.join(CIF_ROOT, cod[0], cod[1:3], cod[3:5], cod + ".cif")
+
+
+def hull_faces_and_edges(pts):
+    """Triangular hull faces, plus the hull edges that are real polyhedron edges.
+
+    A hull edge shared by two faces with nearly parallel normals lies inside a
+    flat face of the polyhedron and would draw as a diagonal across it, so those
+    are dropped and only the creases are kept.
+    """
+    from scipy.spatial import ConvexHull
+    import numpy as np
+    h = ConvexHull(np.asarray(pts))
+    faces = [list(map(int, s)) for s in h.simplices]
+    norms = []
+    P = np.asarray(pts)
+    cen = P.mean(axis=0)
+    fixed = []
+    for f in faces:
+        a, b, c = P[f[0]], P[f[1]], P[f[2]]
+        n = np.cross(b - a, c - a)
+        ln = np.linalg.norm(n)
+        if ln < 1e-9:
+            continue
+        n = n / ln
+        if np.dot(n, a - cen) < 0:          # outward winding, so lighting works
+            f = [f[0], f[2], f[1]]
+            n = -n
+        fixed.append(f)
+        norms.append(n)
+    byedge = {}
+    for i, f in enumerate(fixed):
+        for k in range(3):
+            e = tuple(sorted((f[k], f[(k + 1) % 3])))
+            byedge.setdefault(e, []).append(i)
+    edges = []
+    for e, fl in byedge.items():
+        if len(fl) != 2 or abs(float(np.dot(norms[fl[0]], norms[fl[1]]))) < 0.999:
+            edges.append([e[0], e[1]])
+    return fixed, edges
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("set", choices=sorted(SETS), help="which panel set to export")
+    ap.add_argument("-o", "--out")
+    a = ap.parse_args()
+    panels = SETS[a.set]
+    if not a.out:
+        a.out = a.set + "_panels.json"
+
+    import numpy as np
+    from pymatgen.core import Structure
+
+    idx = {}
+    for line in open(r"C:\Users\pzgft\CODdata\cod_dimensionality.jsonl",
+                     encoding="utf-8"):
+        r = json.loads(line)
+        if r["cod"] in {p["cod"] for p in panels}:
+            idx[r["cod"]] = r
+
+    out = []
+    for p in panels:
+        st = Structure.from_file(cif_path(p["cod"]))
+        L = np.asarray(st.lattice.matrix)
+        Linv = np.linalg.inv(L)
+
+        base = {}
+        for s_ in st:
+            base.setdefault(s_.specie.symbol, []).append(
+                np.asarray(s_.frac_coords) % 1.0)
+
+        def replicate(species, box, pad=1):
+            """Cartesian positions of one species over the box, plus a margin."""
+            na, nb, nc = box
+            pts = []
+            for fr in base.get(species, []):
+                for i in range(-pad, na + pad):
+                    for j in range(-pad, nb + pad):
+                        for k in range(-pad, nc + pad):
+                            pts.append((fr + [i, j, k]) @ L)
+            return np.asarray(pts)
+
+        # nearest-neighbour cutoff read off the structure itself, not a table
+        M1 = replicate(p["metal"], (1, 1, 1))
+        X1 = replicate(p["anion"], (1, 1, 1))
+        d0 = min(float(np.linalg.norm(m - x)) for m in M1 for x in X1
+                 if np.linalg.norm(m - x) > 0.4)
+        cut = 1.28 * d0
+
+        def ligands(m, X):
+            return [x for x in X if 0.4 < np.linalg.norm(x - m) < cut]
+
+        # Which lattice directions does the sublattice extend along? Bond
+        # directions will not answer this: a chain that zigzags has joining
+        # vectors with components along two axes while repeating along one. So
+        # walk the connected unit instead. Starting from one metal in the centre
+        # cell of a 5x5x5 block, step to any metal that shares a coordinating
+        # anion, and record which cell each metal reached belongs to. A unit that
+        # is periodic along an axis walks out to the block boundary along it; a
+        # finite unit stops short.
+        R = 5
+        half = R // 2
+        Mb = replicate(p["metal"], (R, R, R), pad=0)
+        Xb = replicate(p["anion"], (R, R, R), pad=0)
+        keyed = {}
+        for m in Mb:
+            keyed[tuple(np.round(m, 3))] = ligands(m, Xb)
+        seed = (np.asarray(base[p["metal"]][0]) + [half, half, half]) @ L
+        seed = tuple(np.round(seed, 3))
+        seen, stack = {seed}, [seed]
+        while stack:
+            cur = np.asarray(stack.pop())
+            lc = keyed[tuple(np.round(cur, 3))]
+            for k2, l2 in keyed.items():
+                if k2 in seen or np.linalg.norm(np.asarray(k2) - cur) > 2.2 * cut:
+                    continue
+                if any(np.linalg.norm(x - y) < 0.3 for x in lc for y in l2):
+                    seen.add(k2)
+                    stack.append(k2)
+        cells = np.asarray([np.floor(Linv.T @ np.asarray(k2) + 1e-4)
+                            for k2 in seen])
+        reach = cells.max(axis=0) - cells.min(axis=0)
+        spans = reach >= (R - 1)          # walked the full block along this axis
+        nper = int(spans.sum())
+        # two repeats is enough to show that a unit propagates; three only
+        # stretches the panel and shrinks every polyhedron in the figure,
+        # since all four panels share one scale
+        mult = 2
+        box = tuple(int(mult if spans[i] else 1) for i in range(3))
+
+        M = replicate(p["metal"], box)
+        X = replicate(p["anion"], box)
+        C = replicate(p["cation"], box, pad=0)
+        nab = np.asarray(box)
+
+        def inside(cart, eps=1e-6):
+            """Half-open box, so a site on a shared face is counted once."""
+            f = Linv.T @ cart
+            return bool(np.all(f > -eps) and np.all(f < nab - eps))
+
+        polys = []
+        for m in M:
+            if not inside(m):
+                continue
+            lig = ligands(m, X)
+            if len(lig) < 4:
+                continue
+            try:
+                F, E = hull_faces_and_edges(lig)
+            except Exception:
+                continue
+            polys.append({"V": [[round(float(c), 4) for c in v] for v in lig],
+                          "F": [[i + 1 for i in f] for f in F],   # MATLAB is 1-based
+                          "E": [[i + 1 for i in e] for e in E],
+                          "M": [round(float(c), 4) for c in m]})
+
+        cats = [[round(float(c), 4) for c in v] for v in C if inside(v)]
+
+        na, nb, nc = box
+        corners = [(i, j, k) for i in (0, na) for j in (0, nb) for k in (0, nc)]
+        segs = []
+        for c1 in corners:
+            for c2 in corners:
+                if sum(1 for u, v in zip(c1, c2) if u != v) == 1 and c1 < c2:
+                    segs.append([list(np.asarray(c1, float) @ L),
+                                 list(np.asarray(c2, float) @ L)])
+        segs = [[[round(float(c), 4) for c in q] for q in s_] for s_ in segs]
+
+        r = idx.get(p["cod"], {})
+        out.append({"name": p["name"], "pretty": p["pretty"], "cod": p["cod"],
+                    "metal": p["metal"], "anion": p["anion"],
+                    "cation": p["cation"] or "",
+                    "d_top": r.get("d_top"), "D": r.get("D"),
+                    "formula": r.get("formula"),
+                    "cn": len(polys[0]["V"]) if polys else 0,
+                    "dmin": round(d0, 3), "box": list(box),
+                    "L": [[round(float(c), 5) for c in row] for row in L],
+                    "spans": [bool(x) for x in spans],
+                    "polys": polys, "cations": cats, "cell": segs})
+        print("{:14s} cod {:>8}  box {}  {:>3} polyhedra  CN {}  {:>3} cations  "
+              "d_top {}  D {}  spans {}".format(
+                  p["name"], p["cod"], box, len(polys), out[-1]["cn"], len(cats),
+                  r.get("d_top"), r.get("D"), nper))
+
+    json.dump(out, open(a.out, "w"), indent=1)
+    print("\nwrote " + a.out)
+
+
+if __name__ == "__main__":
+    main()

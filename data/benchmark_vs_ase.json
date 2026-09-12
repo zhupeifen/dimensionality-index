@@ -1,0 +1,92 @@
+[
+ {
+  "label": "Cs2CuCl4",
+  "source": "Cs2CuCl4",
+  "halide": "Cl",
+  "whole_RDA": "3D",
+  "whole_TSA": "3D",
+  "sub_D": 0.0,
+  "sub_dtop": 0
+ },
+ {
+  "label": "Cs3Cu2Cl5",
+  "source": "126-0D-Cl",
+  "halide": "Cl",
+  "whole_RDA": "3D",
+  "whole_TSA": "3D",
+  "sub_D": 0.0,
+  "sub_dtop": 0
+ },
+ {
+  "label": "CsCuCl3",
+  "source": "CsCuCl3",
+  "halide": "Cl",
+  "whole_RDA": "3D",
+  "whole_TSA": "3D",
+  "sub_D": 1.005,
+  "sub_dtop": 1
+ },
+ {
+  "label": "CsCu2Cl3",
+  "source": "278-1D-Cl",
+  "halide": "Cl",
+  "whole_RDA": "3D",
+  "whole_TSA": "3D",
+  "sub_D": 1.026,
+  "sub_dtop": 1
+ },
+ {
+  "label": "Cs8Cu2Sb4Cl24",
+  "source": "292-2D-Cl",
+  "halide": "Cl",
+  "whole_RDA": "3D",
+  "whole_TSA": "3D",
+  "sub_D": 0.0,
+  "sub_dtop": 0
+ },
+ {
+  "label": "Rb2CuCl4",
+  "source": "1528214",
+  "halide": "Cl",
+  "whole_RDA": "3D",
+  "whole_TSA": "3D",
+  "sub_D": 2.0,
+  "sub_dtop": 2
+ },
+ {
+  "label": "(NH4)2CuCl4",
+  "source": "1528209",
+  "halide": "Cl",
+  "whole_RDA": "0D",
+  "whole_TSA": "0D",
+  "sub_D": 2.0,
+  "sub_dtop": 2
+ },
+ {
+  "label": "CuCl (zincblende)",
+  "source": "9008842",
+  "halide": "Cl",
+  "whole_RDA": "3D",
+  "whole_TSA": "3D",
+  "sub_D": 3.0,
+  "sub_dtop": 3
+ },
+ {
+  "label": "Cs3Cu2I5",
+  "source": "1539742",
+  "halide": "I",
+  "whole_RDA": "3D",
+  "whole_TSA": "3D",
+  "sub_D": 0.0,
+  "sub_dtop": 0
+ },
+ {
+  "label": "CsCu2I3",
+  "source": "7246302",
+  "halide": "I",
+  "whole_RDA": "3D",
+  "whole_TSA": "3D",
+  "sub_D": 1.007,
+  "sub_dtop": 1
+ }
+]

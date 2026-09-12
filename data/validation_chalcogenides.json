@@ -1,0 +1,2533 @@
+[
+ {
+  "cod": "1531725",
+  "metal": "Mo",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "3d",
+  "rda": "3D",
+  "nsites": 20,
+  "text": "A new increasing delocalization of M = 3d-elements (Ti, Fe, Co) in the channels network of the ternary My Mo6 Se8 Chevrel phases",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 54
+ },
+ {
+  "cod": "1531915",
+  "metal": "Mo",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "3d",
+  "rda": "3D",
+  "nsites": 16,
+  "text": "A new increasing delocalization of M = 3d-elements (Ti, Fe, Co) in the channels network of the ternary My Mo6 Se8 Chevrel phases",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 54
+ },
+ {
+  "cod": "1531916",
+  "metal": "Mo",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "3d",
+  "rda": "3D",
+  "nsites": 16,
+  "text": "A new increasing delocalization of M = 3d-elements (Ti, Fe, Co) in the channels network of the ternary My Mo6 Se8 Chevrel phases",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 54
+ },
+ {
+  "cod": "7234537",
+  "metal": "W",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 10,
+  "text": "K0.36(H2O)yWS2: a new layered compound for reversible hydrated potassium ion intercalation in aqueous electrolyte",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 12
+ },
+ {
+  "cod": "4319150",
+  "metal": "W",
+  "chalcs": [
+   "S",
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "Three-Dimensional",
+  "rda": "0D",
+  "nsites": 232,
+  "text": "A Density Functional Study of the Highly Adaptable Molecular Structure of Mo(V) and W(V) Dithiolene Complexes: From Three-Dimensio",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "1520546",
+  "metal": "Ti",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 8,
+  "text": "Few-layered titanium trisulfide (TiS3) field-effect transistors.",
+  "D": 2.042,
+  "d_top": 2,
+  "frac": 0.0419,
+  "nbridge": 16
+ },
+ {
+  "cod": "1526793",
+  "metal": "Ti",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 4,
+  "text": "X-ray structure analysis and electron density distributions of the layered compounds Cux Ti S2",
+  "D": 2.043,
+  "d_top": 2,
+  "frac": 0.0433,
+  "nbridge": 6
+ },
+ {
+  "cod": "1526795",
+  "metal": "Ti",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "X-ray structure analysis and electron density distributions of the layered compounds Cux Ti S2",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 96
+ },
+ {
+  "cod": "1526797",
+  "metal": "Ti",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 4,
+  "text": "Structural analysis of the layered compounds Cux Ti S2",
+  "D": 2.042,
+  "d_top": 2,
+  "frac": 0.0417,
+  "nbridge": 6
+ },
+ {
+  "cod": "4319681",
+  "metal": "Ti",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 18,
+  "text": "New Layered Materials: Syntheses, Structures, and Optical Properties of K2TiCu2S4, Rb2TiCu2S4, Rb2TiAg2S4, Cs2TiAg2S4, and Cs2TiCu",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4319682",
+  "metal": "Ti",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 18,
+  "text": "New Layered Materials: Syntheses, Structures, and Optical Properties of K2TiCu2S4, Rb2TiCu2S4, Rb2TiAg2S4, Cs2TiAg2S4, and Cs2TiCu",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4344383",
+  "metal": "Ti",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "3D",
+  "nsites": 48,
+  "text": "Synthesis and characterization of Na2 Ti2 Se8, a new one-dimensional solid-state polyselenide",
+  "D": 1.007,
+  "d_top": 1,
+  "frac": 0.0073,
+  "nbridge": 16
+ },
+ {
+  "cod": "4319683",
+  "metal": "Ti",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 18,
+  "text": "New Layered Materials: Syntheses, Structures, and Optical Properties of K2TiCu2S4, Rb2TiCu2S4, Rb2TiAg2S4, Cs2TiAg2S4, and Cs2TiCu",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "7222756",
+  "metal": "Ti",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "3D",
+  "nsites": 64,
+  "text": "K4 Ti3 Te9 - a new pseudo one-dimensional polyanionic alkali chalcogenometallate(IV)",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 24
+ },
+ {
+  "cod": "1530015",
+  "metal": "Nb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 6,
+  "text": "A crystal structure investigation of the hydrated layered chalcogenides Kx (H2 O)y Nb S2 and Kx (H2 O)y Ta S2",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 12
+ },
+ {
+  "cod": "1530401",
+  "metal": "Nb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 176,
+  "text": "Preparation and characterization of new mixed sandwiched layered compounds Ln32 Nb28 S88 (Ln = La,Ce)",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 672
+ },
+ {
+  "cod": "1532142",
+  "metal": "Nb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "van der Waals",
+  "rda": "2D",
+  "nsites": 5,
+  "text": "Topochemical formation of van der Waals type niobium carbosulfide 1T-(Nb2 S2 C)",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 12
+ },
+ {
+  "cod": "1532143",
+  "metal": "Nb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "van der Waals",
+  "rda": "2D",
+  "nsites": 15,
+  "text": "Topochemical formation of van der Waals type niobium carbosulfide 1T-(Nb2 S2 C)",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 36
+ },
+ {
+  "cod": "2220657",
+  "metal": "Nb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 14,
+  "text": "Nb~1.30~Cr~0.70~S~5~: a layered ternary mixed-metal sulfide",
+  "D": 1.017,
+  "d_top": 1,
+  "frac": 0.0174,
+  "nbridge": 8
+ },
+ {
+  "cod": "7204541",
+  "metal": "Nb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 10,
+  "text": "New metathesis routes to layered dichalcogenides: synthesis, crystal growth and structure of NayNbX2 (y = 0.5, X = S, Se)",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 12
+ },
+ {
+  "cod": "1532140",
+  "metal": "Nb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "van der Waals",
+  "rda": "3D",
+  "nsites": 7,
+  "text": "Topochemical formation of van der Waals type niobium carbosulfide 1T-(Nb2 S2 C)",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 12
+ },
+ {
+  "cod": "1532141",
+  "metal": "Nb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "van der Waals",
+  "rda": "3D",
+  "nsites": 7,
+  "text": "Topochemical formation of van der Waals type niobium carbosulfide 1T-(Nb2 S2 C)",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 12
+ },
+ {
+  "cod": "4030897",
+  "metal": "Nb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "two-dimensional",
+  "rda": "02D",
+  "nsites": 32,
+  "text": "Synthesis, crystal structure and optical absorptions of the two-dimensional sulfide NaCu2NbS4",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4030898",
+  "metal": "Nb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "two-dimensional",
+  "rda": "02D",
+  "nsites": 32,
+  "text": "Synthesis, crystal structure and optical absorptions of the two-dimensional sulfide NaCu2NbS4",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "1524915",
+  "metal": "Nb",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "2D",
+  "nsites": 14,
+  "text": "Structural determination of a new one-dimensional niobium chalcogenide: Fe Nb3 Se10",
+  "D": 1.016,
+  "d_top": 1,
+  "frac": 0.0158,
+  "nbridge": 8
+ },
+ {
+  "cod": "2001810",
+  "metal": "Nb",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "01D",
+  "nsites": 64,
+  "text": "A new one-dimensional compound: synthesis and structure of InNb~3~(Se~2~)~6~",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 24
+ },
+ {
+  "cod": "7204540",
+  "metal": "Nb",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 10,
+  "text": "New metathesis routes to layered dichalcogenides: synthesis, crystal growth and structure of NayNbX2 (y = 0.5, X = S, Se)",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 12
+ },
+ {
+  "cod": "1540320",
+  "metal": "Nb",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "two-dimensional",
+  "rda": "3D",
+  "nsites": 32,
+  "text": "Synthesis and characterization of the new quaternary two-dimensional materials K Cu2 Nb Q4 (Q= Se, S)",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4344387",
+  "metal": "Nb",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "3D",
+  "nsites": 72,
+  "text": "Synthesis and characterization of the new quaternary one-dimensional chain materials K2 Cu Nb Se4 and K3 Cu Nb2 Se12",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 8
+ },
+ {
+  "cod": "1005003",
+  "metal": "Nb",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 32,
+  "text": "New layered ternary niobium tellurides: synthesis, structure and properties of NbMTe~2~ (M=Fe, Co)",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 64
+ },
+ {
+  "cod": "1005004",
+  "metal": "Nb",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 16,
+  "text": "New layered ternary niobium tellurides: synthesis, structure and properties of NbMTe~2~ (M=Fe, Co)",
+  "D": 2.056,
+  "d_top": 2,
+  "frac": 0.056,
+  "nbridge": 32
+ },
+ {
+  "cod": "1005010",
+  "metal": "Nb",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 40,
+  "text": "Synthesis and structure of Nb~3~SiTe~6~, a new layered ternary niobium telluride compound",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 64
+ },
+ {
+  "cod": "7132970",
+  "metal": "Nb",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "van der Waals",
+  "rda": "2D",
+  "nsites": 16,
+  "text": "Bulk ferromagnetism in cleavable van der Waals telluride NbFeTe<sub>2</sub>.",
+  "D": 2.009,
+  "d_top": 2,
+  "frac": 0.0091,
+  "nbridge": 20
+ },
+ {
+  "cod": "7712660",
+  "metal": "Nb",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 14,
+  "text": "Cleavable crystals, crystal structure, and magnetic properties of the NbFe1+xTe3 layered van der Waals telluride",
+  "D": 1.024,
+  "d_top": 1,
+  "frac": 0.0243,
+  "nbridge": 8
+ },
+ {
+  "cod": "1527789",
+  "metal": "Ta",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "2D",
+  "nsites": 24,
+  "text": "Structure and properties of the new phase of the pseudo one-dimensional compound Ta S3",
+  "D": 2.059,
+  "d_top": 2,
+  "frac": 0.059,
+  "nbridge": 44
+ },
+ {
+  "cod": "1530016",
+  "metal": "Ta",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 6,
+  "text": "A crystal structure investigation of the hydrated layered chalcogenides Kx (H2 O)y Nb S2 and Kx (H2 O)y Ta S2",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 12
+ },
+ {
+  "cod": "4344384",
+  "metal": "Ta",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 18,
+  "text": "New layered ternary chalcogenides: tantalum palladium sulfide (Ta2 Pd S6), tantalum palladium selenide (Ta2 Pd Se6), niobium palla",
+  "D": 1.014,
+  "d_top": 1,
+  "frac": 0.0139,
+  "nbridge": 16
+ },
+ {
+  "cod": "4514335",
+  "metal": "Ta",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "2D",
+  "nsites": 24,
+  "text": "TaS3 Nanofibers: Layered Trichalcogenide for High-Performance Electronic and Sensing Devices.",
+  "D": 2.058,
+  "d_top": 2,
+  "frac": 0.058,
+  "nbridge": 44
+ },
+ {
+  "cod": "4030505",
+  "metal": "Ta",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "3D",
+  "nsites": 64,
+  "text": "Synthesis of the new one-dimensional quaternary compound K2CuTaSe4 and its structural relationship to other compounds in the K/Cu/",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "1005007",
+  "metal": "Ta",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 12,
+  "text": "Characterization of TaFe~1.25~Te~3~, a new layered telluride with an unusual metal network structure",
+  "D": 1.031,
+  "d_top": 1,
+  "frac": 0.0311,
+  "nbridge": 8
+ },
+ {
+  "cod": "4031782",
+  "metal": "Ta",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 46,
+  "text": "Synthesis, crystal structure and electrical conductivity of a new layered ternary telluride Ta4 Pd3 Te16",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 24
+ },
+ {
+  "cod": "1510284",
+  "metal": "V",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 8,
+  "text": "Structural, transport and electronic properties of a layered dichalcogenide Au V S2 with semimetallic properties",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 12
+ },
+ {
+  "cod": "1529674",
+  "metal": "V",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "03D",
+  "nsites": 28,
+  "text": "On the crystal structure of Hollandite-like Tlx V5 O8. Evidence for one-dimensional cation order",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 108
+ },
+ {
+  "cod": "1521756",
+  "metal": "V",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "3D",
+  "nsites": 10,
+  "text": "Structural and magnetic properties of one-dimensional barium vanadium triselenide",
+  "D": 1.006,
+  "d_top": 1,
+  "frac": 0.0057,
+  "nbridge": 4
+ },
+ {
+  "cod": "1543238",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 28,
+  "text": "Li0.6[Li0.2Sn0.8S2] \u2012 a layered lithium superionic conductor",
+  "D": 2.029,
+  "d_top": 2,
+  "frac": 0.0294,
+  "nbridge": 36
+ },
+ {
+  "cod": "2311789",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "two-dimensional",
+  "rda": "2D",
+  "nsites": 40,
+  "text": "The structure-directing amine changes everything: structures and optical properties of two-dimensional thiostannates.",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 36
+ },
+ {
+  "cod": "4001863",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 0,
+  "phrase": "Zero-Dimensional",
+  "rda": "3D",
+  "nsites": 216,
+  "text": "Ba8Sn4S15: A Strong Second Harmonic Generation Sulfide with Zero-Dimensional Crystal Structure",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4327466",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "2D",
+  "rda": "3D",
+  "nsites": 24,
+  "text": "New Metal-Rich Sulfides Ni6SnS2 and Ni9Sn2S2 with a 2D Metal Framework: Synthesis, Crystal Structure, and Bonding",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4327467",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "2D",
+  "rda": "3D",
+  "nsites": 32,
+  "text": "New Metal-Rich Sulfides Ni6SnS2 and Ni9Sn2S2 with a 2D Metal Framework: Synthesis, Crystal Structure, and Bonding",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4345120",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "3D",
+  "rda": "3D",
+  "nsites": 184,
+  "text": "Synthesis of a Ternary Thiostannate with 3D Channel Decorated by Hydronium for High Proton Conductivity.",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "7705280",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 72,
+  "text": "Two new layered metal chalcogenide frameworks as photocatalysts for highly efficient and selective dye degradation.",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "7705281",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 100,
+  "text": "Two new layered metal chalcogenide frameworks as photocatalysts for highly efficient and selective dye degradation.",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 120
+ },
+ {
+  "cod": "4001814",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Cs2MIIMIV3Q8(Q = S, Se, Te): An Extensive Family of Layered Semiconductors with Diverse Band Gaps",
+  "D": 1.053,
+  "d_top": 1,
+  "frac": 0.0535,
+  "nbridge": 24
+ },
+ {
+  "cod": "4104343",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 24,
+  "text": "Highly Efficient and Rapid Cs+ Uptake by the Layered Metal Sulfide K2xMnxSn3-xS6 (KMS-1)",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 18
+ },
+ {
+  "cod": "4104344",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 30,
+  "text": "Highly Efficient and Rapid Cs+ Uptake by the Layered Metal Sulfide K2xMnxSn3-xS6 (KMS-1)",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 18
+ },
+ {
+  "cod": "4104345",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 30,
+  "text": "Highly Efficient and Rapid Cs+ Uptake by the Layered Metal Sulfide K2xMnxSn3-xS6 (KMS-1)",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 18
+ },
+ {
+  "cod": "4126720",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 24,
+  "text": "Highly Efficient Separation of Trivalent Minor Actinides by a Layered Metal Sulfide (KInSn2S6) from Acidic Radioactive Waste.",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 18
+ },
+ {
+  "cod": "7247665",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "van der Waals",
+  "rda": null,
+  "nsites": 612,
+  "text": "Long-chain tin(iv) alkanethiolates (Sn(SCnH2n+1)4, n \u2265 12) with the coexistence of trans and gauche S\u2013C bonds: a class of lamellar",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "7247666",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "van der Waals",
+  "rda": null,
+  "nsites": 708,
+  "text": "Long-chain tin(iv) alkanethiolates (Sn(SCnH2n+1)4, n \u2265 12) with the coexistence of trans and gauche S\u2013C bonds: a class of lamellar",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "7247667",
+  "metal": "Sn",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "van der Waals",
+  "rda": null,
+  "nsites": 402,
+  "text": "Long-chain tin(iv) alkanethiolates (Sn(SCnH2n+1)4, n \u2265 12) with the coexistence of trans and gauche S\u2013C bonds: a class of lamellar",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "1534813",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "2D",
+  "rda": "3D",
+  "nsites": 20,
+  "text": "2D metal slabs in new nickel-tin chalcogenide Ni(7-delta) Sn Q2 (Q = Se, Te): crystal and electronic structure, chemical bonding a",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4001727",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "3D",
+  "rda": "3D",
+  "nsites": 18,
+  "text": "From 1D chain to 3D network: syntheses, structures, and 1D properties of K2 Mn Sn2 Se6, K2 Mn Sn Se4, and K2 Ag2 Sn Se4",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4001811",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Cs2MIIMIV3Q8(Q = S, Se, Te): An Extensive Family of Layered Semiconductors with Diverse Band Gaps",
+  "D": 1.052,
+  "d_top": 1,
+  "frac": 0.0524,
+  "nbridge": 24
+ },
+ {
+  "cod": "4001812",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Cs2MIIMIV3Q8(Q = S, Se, Te): An Extensive Family of Layered Semiconductors with Diverse Band Gaps",
+  "D": 1.059,
+  "d_top": 1,
+  "frac": 0.0588,
+  "nbridge": 24
+ },
+ {
+  "cod": "4001813",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Cs2MIIMIV3Q8(Q = S, Se, Te): An Extensive Family of Layered Semiconductors with Diverse Band Gaps",
+  "D": 1.05,
+  "d_top": 1,
+  "frac": 0.0504,
+  "nbridge": 24
+ },
+ {
+  "cod": "4001815",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Cs2MIIMIV3Q8(Q = S, Se, Te): An Extensive Family of Layered Semiconductors with Diverse Band Gaps",
+  "D": 1.051,
+  "d_top": 1,
+  "frac": 0.0506,
+  "nbridge": 24
+ },
+ {
+  "cod": "4002225",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "3D",
+  "rda": "3D",
+  "nsites": 44,
+  "text": "From 1D chain to 3D network: syntheses, structures, and 1D properties of K2 Mn Sn2 Se6, K2 Mn Sn Se4, and K2 Ag2 Sn Se4",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 8
+ },
+ {
+  "cod": "4002226",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "3D",
+  "rda": "3D",
+  "nsites": 32,
+  "text": "From 1D chain to 3D network: syntheses, structures, and 1D properties of K2 Mn Sn2 Se6, K2 Mn Sn Se4, and K2 Ag2 Sn Se4",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4030896",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 36,
+  "text": "Preparation and crystal structure of Na3CuSnSe4. A novel selenostannate(IV) with a layered structure",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4122318",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Two-Dimensional",
+  "rda": "012D",
+  "nsites": 82,
+  "text": "The New Phase [Tl4Sb6Se10][Sn5Sb2Se14]: A Naturally Formed Semiconducting Heterostructure with Two-Dimensional Conductance.",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 44
+ },
+ {
+  "cod": "7042980",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "3D",
+  "rda": "3D",
+  "nsites": 30,
+  "text": "Two excellent phase-matchable infrared nonlinear-optical materials based on the 3D diamond-like frameworks: RbGaSn2Se6 and RbInSn2",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 36
+ },
+ {
+  "cod": "7042981",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "3D",
+  "rda": "3D",
+  "nsites": 30,
+  "text": "Two excellent phase-matchable infrared nonlinear-optical materials based on the 3D diamond-like frameworks: RbGaSn2Se6 and RbInSn2",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 36
+ },
+ {
+  "cod": "7243357",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "three-dimensional",
+  "rda": "3D",
+  "nsites": 384,
+  "text": "Synthesis, crystal structure, photocatalysis, photocurrent response: one-dimensional K2HgSnSe4 and three-dimensional Na6Cu8Sn3Se13",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "7720774",
+  "metal": "Sn",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 82,
+  "text": "Synthesis, crystal chemistry, and semiconducting properties of A<sub>3</sub>B<sub>14</sub>Se<sub>24</sub> (A = Sn/Pb; B = In/Sb/Bi",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 24
+ },
+ {
+  "cod": "1534816",
+  "metal": "Sn",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "2D",
+  "rda": "3D",
+  "nsites": 20,
+  "text": "2D metal slabs in new nickel-tin chalcogenide Ni(7-delta) Sn Q2 (Q = Se, Te): crystal and electronic structure, chemical bonding a",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4349725",
+  "metal": "Sn",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 1,
+  "phrase": "one dimensional",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Synthesis, crystal structures, and electronic properties of one dimensional Ba9Sn3(Te1\u2212xSex)15 (x = 0\u20121)",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 12
+ },
+ {
+  "cod": "4508260",
+  "metal": "Bi",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Two-Dimensional",
+  "rda": "3D",
+  "nsites": 24,
+  "text": "From One-Dimensional Linear Chain to Two-Dimensional Layered Chalcogenides XBi4S7(X = Mn, Fe): Syntheses, Crystal and Electronic S",
+  "D": 2.417,
+  "d_top": 2,
+  "frac": 0.4175,
+  "nbridge": 52
+ },
+ {
+  "cod": "4508261",
+  "metal": "Bi",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Two-Dimensional",
+  "rda": "3D",
+  "nsites": 24,
+  "text": "From One-Dimensional Linear Chain to Two-Dimensional Layered Chalcogenides XBi4S7(X = Mn, Fe): Syntheses, Crystal and Electronic S",
+  "D": 2.422,
+  "d_top": 2,
+  "frac": 0.4217,
+  "nbridge": 52
+ },
+ {
+  "cod": "4127955",
+  "metal": "Bi",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "2D",
+  "rda": "3D",
+  "nsites": 14,
+  "text": "K<sub> <i>x</i> </sub>[Bi<sub>4-<i>x</i></sub>Mn<sub> <i>x</i> </sub>S<sub>6</sub>], Design of a Highly Selective Ion Exchange Mat",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 48
+ },
+ {
+  "cod": "4127957",
+  "metal": "Bi",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "2D",
+  "rda": "3D",
+  "nsites": 14,
+  "text": "K<sub> <i>x</i> </sub>[Bi<sub>4-<i>x</i></sub>Mn<sub> <i>x</i> </sub>S<sub>6</sub>], Design of a Highly Selective Ion Exchange Mat",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 48
+ },
+ {
+  "cod": "4316058",
+  "metal": "Bi",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "One-Dimensional",
+  "rda": "3D",
+  "nsites": 28,
+  "text": "BaM(BS3)S (M = Sb, Bi): Two New Thioborate Compounds with One-Dimensional Polymeric Chain Structure",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4123416",
+  "metal": "Bi",
+  "chalcs": [
+   "S",
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "Two-Dimensional",
+  "rda": "01D",
+  "nsites": 18,
+  "text": "Two-Dimensional Mineral [Pb2BiS3][AuTe2]: High-Mobility Charge Carriers in Single-Atom-Thick Layers.",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 4
+ },
+ {
+  "cod": "4126032",
+  "metal": "Bi",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Two-Dimensional",
+  "rda": "3D",
+  "nsites": 28,
+  "text": "The Two-Dimensional AxCdxBi4-xQ6 (A = K, Rb, Cs; Q = S, Se): Direct Bandgap Semiconductors and Ion-Exchange Materials.",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 96
+ },
+ {
+  "cod": "7209320",
+  "metal": "Bi",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "2D",
+  "rda": "3D",
+  "nsites": 8,
+  "text": "Halbleitende Mischkristalle vom Typ Ax/2B1-xCx/2D",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 72
+ },
+ {
+  "cod": "7210230",
+  "metal": "Bi",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 21,
+  "text": "Crystal structure, properties and nanostructuring of a new layered chalcogenide semiconductor, Bi2MnTe4",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 36
+ },
+ {
+  "cod": "1011162",
+  "metal": "Sb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "three-dimensional",
+  "rda": "3D",
+  "nsites": 42,
+  "text": "The application of the three-dimensional patterson method and the crystal structures of proustite, Ag3 As S3, and pyrargyrite, Ag3",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "1101076",
+  "metal": "Sb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "1D",
+  "rda": "0D",
+  "nsites": 50,
+  "text": "Structure and Physical Properties of 1D Magnetic Chalcogenide, Jamesonite (FePb4Sb6S14)",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 32
+ },
+ {
+  "cod": "4316057",
+  "metal": "Sb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "One-Dimensional",
+  "rda": "3D",
+  "nsites": 28,
+  "text": "BaM(BS3)S (M = Sb, Bi): Two New Thioborate Compounds with One-Dimensional Polymeric Chain Structure",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4338338",
+  "metal": "Sb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 44,
+  "text": "Mild Solvothermal Syntheses and Characterization of Layered Copper Thioantimonates(III) and Thioarsenate(III).",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 8
+ },
+ {
+  "cod": "4509431",
+  "metal": "Sb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 64,
+  "text": "Solvothermal Syntheses of Two Novel Layered Quaternary Silver\u2212Antimony(III) Sulfides with Different Strategies",
+  "D": 1.02,
+  "d_top": 1,
+  "frac": 0.0202,
+  "nbridge": 16
+ },
+ {
+  "cod": "4509432",
+  "metal": "Sb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 28,
+  "text": "Solvothermal Syntheses of Two Novel Layered Quaternary Silver\u2212Antimony(III) Sulfides with Different Strategies",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "7121903",
+  "metal": "Sb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "three-dimensional",
+  "rda": "3D",
+  "nsites": 75,
+  "text": "Remarkable multimember-ring configurations in a new family of Na<sub>7</sub>M<sup>II</sup>Sb<sub>5</sub>S<sub>12</sub> (M<sup>II</",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 54
+ },
+ {
+  "cod": "7121904",
+  "metal": "Sb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "three-dimensional",
+  "rda": "3D",
+  "nsites": 75,
+  "text": "Remarkable multimember-ring configurations in a new family of Na<sub>7</sub>M<sup>II</sup>Sb<sub>5</sub>S<sub>12</sub> (M<sup>II</",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 54
+ },
+ {
+  "cod": "7121905",
+  "metal": "Sb",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "three-dimensional",
+  "rda": "3D",
+  "nsites": 75,
+  "text": "Remarkable multimember-ring configurations in a new family of Na<sub>7</sub>M<sup>II</sup>Sb<sub>5</sub>S<sub>12</sub> (M<sup>II</",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 54
+ },
+ {
+  "cod": "1520971",
+  "metal": "Sb",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "three-dimensional",
+  "rda": "3D",
+  "nsites": 34,
+  "text": "Eightfold superstructure in K2 Gd2 Sb2 Se9 and K2 La2 Sb2 S9 caused by three-dimensional ordering of the 5s2 lone pair of Sb(3+) i",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 52
+ },
+ {
+  "cod": "1520973",
+  "metal": "Sb",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "three-dimensional",
+  "rda": "3D",
+  "nsites": 120,
+  "text": "Eightfold superstructure in K2 Gd2 Sb2 Se9 and K2 La2 Sb2 S9 caused by three-dimensional ordering of the 5s2 lone pair of Sb(3+)io",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 40
+ },
+ {
+  "cod": "7720771",
+  "metal": "Sb",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 82,
+  "text": "Synthesis, crystal chemistry, and semiconducting properties of A<sub>3</sub>B<sub>14</sub>Se<sub>24</sub> (A = Sn/Pb; B = In/Sb/Bi",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 96
+ },
+ {
+  "cod": "1539557",
+  "metal": "In",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 14,
+  "text": "Crystal structure of the new layered semiconductor Ga1.74 In2.92 S7",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 30
+ },
+ {
+  "cod": "4113421",
+  "metal": "In",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "Three-Dimensional",
+  "rda": "3D",
+  "nsites": 224,
+  "text": "Nonaqueous Synthesis and Selective Crystallization of Gallium Sulfide Clusters into Three-Dimensional Photoluminescent Superlattic",
+  "D": 1.136,
+  "d_top": 1,
+  "frac": 0.1364,
+  "nbridge": 96
+ },
+ {
+  "cod": "4129214",
+  "metal": "In",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "three-dimensional",
+  "rda": "03D",
+  "nsites": 48,
+  "text": "A new three-dimensional subsulfide Ir<sub>2</sub>In<sub>8</sub>S with Dirac semimetal behavior.",
+  "D": 0.131,
+  "d_top": 0,
+  "frac": 0.1309,
+  "nbridge": 48
+ },
+ {
+  "cod": "1530048",
+  "metal": "In",
+  "chalcs": [
+   "S",
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 18,
+  "text": "Materials with layered structures: crystal structure of Zn1.25 In2.5 S3 Se2, a new polytype of Zn2 In2 S5 and the isotypic compoun",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 48
+ },
+ {
+  "cod": "1561522",
+  "metal": "In",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "03D",
+  "nsites": 84,
+  "text": "Syntheses, structural variants and characterization of AInM\u2032S4 (A=alkali metals, Tl; M\u2032 = Ge, Sn) compounds; facile ion-exchange r",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 96
+ },
+ {
+  "cod": "1561524",
+  "metal": "In",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 84,
+  "text": "Syntheses, structural variants and characterization of AInM\u2032S4 (A=alkali metals, Tl; M\u2032 = Ge, Sn) compounds; facile ion-exchange r",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 96
+ },
+ {
+  "cod": "1561525",
+  "metal": "In",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "03D",
+  "nsites": 84,
+  "text": "Syntheses, structural variants and characterization of AInM\u2032S4 (A=alkali metals, Tl; M\u2032 = Ge, Sn) compounds; facile ion-exchange r",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 96
+ },
+ {
+  "cod": "1561526",
+  "metal": "In",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Syntheses, structural variants and characterization of AInM\u2032S4 (A=alkali metals, Tl; M\u2032 = Ge, Sn) compounds; facile ion-exchange r",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 16
+ },
+ {
+  "cod": "1561527",
+  "metal": "In",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "02D",
+  "nsites": 56,
+  "text": "Syntheses, structural variants and characterization of AInM\u2032S4 (A=alkali metals, Tl; M\u2032 = Ge, Sn) compounds; facile ion-exchange r",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 16
+ },
+ {
+  "cod": "7119576",
+  "metal": "In",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "3D",
+  "rda": "3D",
+  "nsites": 124,
+  "text": "Ba5Cu8In2S12: a quaternary semiconductor with a unique 3D copper-rich framework and ultralow thermal conductivity.",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4304497",
+  "metal": "In",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "Three-Dimensional",
+  "rda": "3D",
+  "nsites": 46,
+  "text": "A Three-Dimensional Open-Framework Indium Selenide: [C7H10N][In9Se14]",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 108
+ },
+ {
+  "cod": "4336326",
+  "metal": "In",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 64,
+  "text": "Quaternary Supertetrahedra-Layered Telluride CsMnInTe3: Why Does This Type of Chalcogenide Tilt?",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 64
+ },
+ {
+  "cod": "4336327",
+  "metal": "In",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 96,
+  "text": "Quaternary Supertetrahedra-Layered Telluride CsMnInTe3: Why Does This Type of Chalcogenide Tilt?",
+  "D": 1.146,
+  "d_top": 1,
+  "frac": 0.1465,
+  "nbridge": 32
+ },
+ {
+  "cod": "4003578",
+  "metal": "Ga",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "2D",
+  "rda": "3D",
+  "nsites": 64,
+  "text": "Unusual Atmospheric Water Trapping and Water Induced Reversible Restacking of 2D Gallium Sulfide Layers in NaGaS2 Formed by Supert",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 64
+ },
+ {
+  "cod": "4113416",
+  "metal": "Ga",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "Three-Dimensional",
+  "rda": "3D",
+  "nsites": 232,
+  "text": "Nonaqueous Synthesis and Selective Crystallization of Gallium Sulfide Clusters into Three-Dimensional Photoluminescent Superlattic",
+  "D": 2.023,
+  "d_top": 2,
+  "frac": 0.0234,
+  "nbridge": 408
+ },
+ {
+  "cod": "4113419",
+  "metal": "Ga",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "Three-Dimensional",
+  "rda": "3D",
+  "nsites": 224,
+  "text": "Nonaqueous Synthesis and Selective Crystallization of Gallium Sulfide Clusters into Three-Dimensional Photoluminescent Superlattic",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 416
+ },
+ {
+  "cod": "4113420",
+  "metal": "Ga",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "Three-Dimensional",
+  "rda": "3D",
+  "nsites": 224,
+  "text": "Nonaqueous Synthesis and Selective Crystallization of Gallium Sulfide Clusters into Three-Dimensional Photoluminescent Superlattic",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 416
+ },
+ {
+  "cod": "4003577",
+  "metal": "Ga",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "2D",
+  "rda": "3D",
+  "nsites": 64,
+  "text": "Unusual Atmospheric Water Trapping and Water Induced Reversible Restacking of 2D Gallium Sulfide Layers in NaGaS2 Formed by Supert",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 64
+ },
+ {
+  "cod": "7123647",
+  "metal": "Ga",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "One-dimensional",
+  "rda": "3D",
+  "nsites": 58,
+  "text": "Quaternary Semiconductor Ba8Zn4Ga2S15 Featuring Unique One-dimensional Chains and Exhibiting Desirable Yellow Emission",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "7718270",
+  "metal": "Ga",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 88,
+  "text": "NaCaGa<sub>3</sub>S<sub>6</sub>: a mixed alkali metal and alkaline earth metal sulfide with a distinctive [Ga<sub>5</sub>S<sub>10<",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 88
+ },
+ {
+  "cod": "1532812",
+  "metal": "Ga",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 30,
+  "text": "The crystal structure and properties of Ga2 Cr1.33 Se5, a new layered semiconductor",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 72
+ },
+ {
+  "cod": "2001932",
+  "metal": "Ga",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "2D",
+  "nsites": 21,
+  "text": "A new layered ZnIn~2~S~4~-(III<i>a</i>) polytype: structure of FeCr~0.8~Ga~1.2~Se~4~",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 36
+ },
+ {
+  "cod": "1562132",
+  "metal": "Ga",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 1,
+  "phrase": "One-dimensional",
+  "rda": "1D",
+  "nsites": 88,
+  "text": "Synthesis of new Ga7Ge3Te11\u2014One-dimensional phase in Ga\u2012Ge\u2012Te ternary system: Crystal structure and physical properties",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 176
+ },
+ {
+  "cod": "4001806",
+  "metal": "Ge",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Cs2MIIMIV3Q8(Q = S, Se, Te): An Extensive Family of Layered Semiconductors with Diverse Band Gaps",
+  "D": 1.068,
+  "d_top": 1,
+  "frac": 0.0682,
+  "nbridge": 24
+ },
+ {
+  "cod": "4001809",
+  "metal": "Ge",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Cs2MIIMIV3Q8(Q = S, Se, Te): An Extensive Family of Layered Semiconductors with Diverse Band Gaps",
+  "D": 1.053,
+  "d_top": 1,
+  "frac": 0.0528,
+  "nbridge": 24
+ },
+ {
+  "cod": "4330907",
+  "metal": "Ge",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "Three-Dimensional",
+  "rda": "3D",
+  "nsites": 144,
+  "text": "Na1.515EuGeS4, A Three-Dimensional Crystalline Assembly of Empty Nanotubules Constructed with Europium(II/III) Mixed Valence Ions",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4338390",
+  "metal": "Ge",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 52,
+  "text": "Layered Compounds BaM2Ge4Ch6 (M = Rh, Ir and Ch = S, Se) with Pyrite-Type Building Blocks and Ge-Ch Heteromolecule-Like Anions.",
+  "D": 1.224,
+  "d_top": 1,
+  "frac": 0.224,
+  "nbridge": 48
+ },
+ {
+  "cod": "1521080",
+  "metal": "Ge",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 3,
+  "phrase": "three-dimensional",
+  "rda": "3D",
+  "nsites": 12,
+  "text": "Structural transformations in three-dimensional crystalline Ge Se2 at high pressures and high temperatures",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 16
+ },
+ {
+  "cod": "4003515",
+  "metal": "Ge",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "van der Waals",
+  "rda": "2D",
+  "nsites": 8,
+  "text": "GeSe: Optical Spectroscopy and Theoretical Study of a van der Waals Solar Absorber",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 24
+ },
+ {
+  "cod": "4001805",
+  "metal": "Ge",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Cs2MIIMIV3Q8(Q = S, Se, Te): An Extensive Family of Layered Semiconductors with Diverse Band Gaps",
+  "D": 1.053,
+  "d_top": 1,
+  "frac": 0.0529,
+  "nbridge": 24
+ },
+ {
+  "cod": "4001807",
+  "metal": "Ge",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Cs2MIIMIV3Q8(Q = S, Se, Te): An Extensive Family of Layered Semiconductors with Diverse Band Gaps",
+  "D": 1.057,
+  "d_top": 1,
+  "frac": 0.0565,
+  "nbridge": 24
+ },
+ {
+  "cod": "4001810",
+  "metal": "Ge",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Cs2MIIMIV3Q8(Q = S, Se, Te): An Extensive Family of Layered Semiconductors with Diverse Band Gaps",
+  "D": 1.05,
+  "d_top": 1,
+  "frac": 0.0501,
+  "nbridge": 24
+ },
+ {
+  "cod": "4310302",
+  "metal": "Ge",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 14,
+  "text": "Molten Flux Synthesis of an Analogous Series of Layered Alkali Samarium Selenogermanate Compounds",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4310303",
+  "metal": "Ge",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 28,
+  "text": "Molten Flux Synthesis of an Analogous Series of Layered Alkali Samarium Selenogermanate Compounds",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4310304",
+  "metal": "Ge",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 28,
+  "text": "Molten Flux Synthesis of an Analogous Series of Layered Alkali Samarium Selenogermanate Compounds",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4001808",
+  "metal": "Ge",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 56,
+  "text": "Cs2MIIMIV3Q8(Q = S, Se, Te): An Extensive Family of Layered Semiconductors with Diverse Band Gaps",
+  "D": 1.048,
+  "d_top": 1,
+  "frac": 0.0483,
+  "nbridge": 24
+ },
+ {
+  "cod": "4337049",
+  "metal": "Zr",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "01D",
+  "nsites": 32,
+  "text": "New Layered-Type Quaternary Chalcogenides, Tl2PbMQ4 (M= Zr, Hf;Q= S, Se): Structure, Electronic Structure, and Electrical Transpor",
+  "D": 1.021,
+  "d_top": 1,
+  "frac": 0.0214,
+  "nbridge": 8
+ },
+ {
+  "cod": "4320319",
+  "metal": "Zr",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 24,
+  "text": "New Layered Materials: Syntheses, Structures, and Optical and Magnetic Properties of CsGdZnSe3, CsZrCuSe3, CsUCuSe3, and BaGdCuSe3",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 16
+ },
+ {
+  "cod": "4337050",
+  "metal": "Zr",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "01D",
+  "nsites": 32,
+  "text": "New Layered-Type Quaternary Chalcogenides, Tl2PbMQ4 (M= Zr, Hf;Q= S, Se): Structure, Electronic Structure, and Electrical Transpor",
+  "D": 1.02,
+  "d_top": 1,
+  "frac": 0.0202,
+  "nbridge": 8
+ },
+ {
+  "cod": "7717678",
+  "metal": "Zr",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 38,
+  "text": "Sr<sub>3</sub>Zr<sub>2</sub>Cu<sub>4</sub><i>Q</i><sub>9</sub> (<i>Q</i> = S and Se): two novel layered quaternary mixed transitio",
+  "D": 1.1,
+  "d_top": 1,
+  "frac": 0.1004,
+  "nbridge": 8
+ },
+ {
+  "cod": "2010515",
+  "metal": "Zr",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "3D",
+  "nsites": 92,
+  "text": "Rb~4~Zr~3~Te~16~, a one-dimensional zirconium telluride synthesized from molten salt",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 24
+ },
+ {
+  "cod": "4119068",
+  "metal": "Zr",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 18,
+  "text": "Cs2 Ag2 Zr Te4 : a new layered telluride containing tetrahedrally coordinated zirconium",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4337051",
+  "metal": "Hf",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "01D",
+  "nsites": 32,
+  "text": "New Layered-Type Quaternary Chalcogenides, Tl2PbMQ4 (M= Zr, Hf;Q= S, Se): Structure, Electronic Structure, and Electrical Transpor",
+  "D": 1.02,
+  "d_top": 1,
+  "frac": 0.0203,
+  "nbridge": 8
+ },
+ {
+  "cod": "1533985",
+  "metal": "Hf",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 36,
+  "text": "Quaternary chalcogenides of the IVa metals with layered structures:preparation and crystal structure of Na Cu Hf2 Se5",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 40
+ },
+ {
+  "cod": "4337052",
+  "metal": "Hf",
+  "chalcs": [
+   "Se"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "01D",
+  "nsites": 32,
+  "text": "New Layered-Type Quaternary Chalcogenides, Tl2PbMQ4 (M= Zr, Hf;Q= S, Se): Structure, Electronic Structure, and Electrical Transpor",
+  "D": 1.02,
+  "d_top": 1,
+  "frac": 0.0197,
+  "nbridge": 8
+ },
+ {
+  "cod": "1556724",
+  "metal": "Pt",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "1D",
+  "nsites": 152,
+  "text": "Understanding and designing one-dimensional assemblies of ligand-protected metal nanoclusters",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 4
+ },
+ {
+  "cod": "7122941",
+  "metal": "Pt",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "three-dimensional",
+  "rda": "0D",
+  "nsites": 41,
+  "text": "Single-component molecular conductor [Pt(dmdt)2] \u2014 A three-dimensional ambient-pressure molecular Dirac electron system",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "1556725",
+  "metal": "Pt",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": null,
+  "nsites": 1952,
+  "text": "Understanding and designing one-dimensional assemblies of ligand-protected metal nanoclusters",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "1556726",
+  "metal": "Pt",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": null,
+  "nsites": 1260,
+  "text": "Understanding and designing one-dimensional assemblies of ligand-protected metal nanoclusters",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "1556728",
+  "metal": "Pt",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "0D",
+  "nsites": 198,
+  "text": "Understanding and designing one-dimensional assemblies of ligand-protected metal nanoclusters",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4331682",
+  "metal": "Pd",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "One-Dimensional",
+  "rda": "0D",
+  "nsites": 84,
+  "text": "Synthesis of a One-Dimensional Metal-Dimer Assembled System with Interdimer Interaction, M2(dtp)4(M = Ni, Pd; dtp = Dithiopropiona",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "9017738",
+  "metal": "Pd",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 34,
+  "text": "Panskyite, Pd9Ag2Pb2S4, a new platinum group mineral from the Southern Kievey ore occurrence of the Fedorova-Pana layered intrusio",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 160
+ },
+ {
+  "cod": "4336712",
+  "metal": "Fe",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 2,
+  "phrase": "Layered",
+  "rda": "3D",
+  "nsites": 5,
+  "text": "New Layered Iron Sulfide NaFe1.6S2: Synthesis and Characterization",
+  "D": 2.139,
+  "d_top": 2,
+  "frac": 0.1387,
+  "nbridge": 18
+ },
+ {
+  "cod": "4337019",
+  "metal": "Fe",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 3,
+  "phrase": "3d",
+  "rda": "0D",
+  "nsites": 188,
+  "text": "Substituent-Dependent Spin-Density Distribution and Coexistence of Fe 3d and \u03c0 Spins on Ferrocene-Tetrathiafulvalene Hybrids",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "7063488",
+  "metal": "Fe",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 0,
+  "phrase": "zero-dimensional",
+  "rda": "3D",
+  "nsites": 52,
+  "text": "Ba4FeCuS6: a new mixed metal sulfide with a pseudo-zero-dimensional structure containing rare CuS3 units",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "4344158",
+  "metal": "Fe",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "Two-dimensional",
+  "rda": "3D",
+  "nsites": 36,
+  "text": "Two-dimensional metallic chain compounds Y5 M2 Te2 (M = Fe, Co, Ni) that are related to Gd3 Mn I3. The hydride derivative Y5 Ni2 T",
+  "D": 0.0,
+  "d_top": 0,
+  "frac": 0.0,
+  "nbridge": 0
+ },
+ {
+  "cod": "7040680",
+  "metal": "Fe",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 14,
+  "text": "New Fe-based layered telluride Fe3-\u03b4As1-yTe2: synthesis, crystal structure and physical properties.",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 140
+ },
+ {
+  "cod": "7040681",
+  "metal": "Fe",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 14,
+  "text": "New Fe-based layered telluride Fe3-\u03b4As1-yTe2: synthesis, crystal structure and physical properties.",
+  "D": 3.0,
+  "d_top": 3,
+  "frac": 0.0,
+  "nbridge": 140
+ },
+ {
+  "cod": "7042128",
+  "metal": "Fe",
+  "chalcs": [
+   "Te"
+  ],
+  "stated": 2,
+  "phrase": "layered",
+  "rda": "3D",
+  "nsites": 10,
+  "text": "KFeCuTe2: a new compound to study the removal of interstitial Fe in layered tellurides.",
+  "D": 2.0,
+  "d_top": 2,
+  "frac": 0.0,
+  "nbridge": 32
+ },
+ {
+  "cod": "1533192",
+  "metal": "Cr",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "3D",
+  "nsites": 18,
+  "text": "High-pressure synthesis and structures of novel chromium sulfides, Ba3 Cr S5 and Ba3 Cr2 S6 with one-dimensional chain structures",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 4
+ },
+ {
+  "cod": "1533193",
+  "metal": "Cr",
+  "chalcs": [
+   "S"
+  ],
+  "stated": 1,
+  "phrase": "one-dimensional",
+  "rda": "3D",
+  "nsites": 66,
+  "text": "High-pressure synthesis and structures of novel chromium sulfides, Ba3 Cr S5 and Ba3 Cr2 S6 with one-dimensional chain structures",
+  "D": 1.0,
+  "d_top": 1,
+  "frac": 0.0,
+  "nbridge": 24
+ }
+]

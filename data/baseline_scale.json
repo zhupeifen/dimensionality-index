@@ -1,0 +1,6385 @@
+{
+ "baseline_all": {
+  "n": 703,
+  "baseline": 461,
+  "index": 498,
+  "rule": {
+   "2.5": 2,
+   "4.0": 2,
+   "2.0": 2,
+   "3.0": 1,
+   "3.5": 2,
+   "7.0": 2,
+   "6.0": 2,
+   "4.5": 2,
+   "6.5": 0,
+   "12.0": 2,
+   "1.5": 2,
+   "8.0": 2,
+   "10.0": 0,
+   "21.5": 0,
+   "5.0": 1,
+   "9.0": 0,
+   "5.5": 1,
+   "11.5": 0,
+   "1.0": 3,
+   "0.5": 3,
+   "7.5": 2,
+   "0.0": 3
+  }
+ },
+ "baseline_frame": {
+  "n": 444,
+  "baseline": 322,
+  "index": 377,
+  "rule": {
+   "2.5": 2,
+   "4.0": 2,
+   "2.0": 2,
+   "3.0": 3,
+   "3.5": 2,
+   "7.0": 0,
+   "6.0": 2,
+   "4.5": 2,
+   "6.5": 0,
+   "12.0": 2,
+   "1.5": 2,
+   "8.0": 2,
+   "10.0": 0,
+   "21.5": 0,
+   "5.0": 1,
+   "9.0": 0,
+   "5.5": 1,
+   "11.5": 0
+  }
+ },
+ "rows": [
+  {
+   "cod": "4302867",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "1567408",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1567409",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1567410",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1567411",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1567412",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1567413",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1575250",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1575254",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1575649",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1575650",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4002906",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003535",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003536",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4004070",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4129079",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4131513",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4134253",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4134254",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4134255",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4516202",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4517499",
+   "metal": "Pb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4517594",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7059144",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7127782",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7211229",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7236999",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7237456",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7240021",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7241343",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7706147",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7706148",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7706150",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7706151",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7711038",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7715584",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7715585",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7715586",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7715587",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7715588",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7715589",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7715590",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7715591",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7715592",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7715593",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7715594",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7715595",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7715596",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7715597",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1572980",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1572981",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4517475",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "12D",
+   "tsa": "12D"
+  },
+  {
+   "cod": "7127910",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7237453",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7237454",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7241764",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7713677",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1572606",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1575249",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1575252",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "1576184",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003869",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4345747",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4345877",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7130002",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1545801",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1545802",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1545803",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1545804",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1545805",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1545806",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1545807",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1554139",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1562675",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1562676",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1562677",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1566322",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1566323",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1566722",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1566723",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1567406",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1567407",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1568465",
+   "metal": "Pb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1568466",
+   "metal": "Pb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1568467",
+   "metal": "Pb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1569277",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1569278",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1569862",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1569863",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1569864",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1572979",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1575246",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1575647",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1575648",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1576183",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "2018524",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4002903",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4002904",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.479,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003470",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003471",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4003870",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.111,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003959",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003961",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003963",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4004069",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4128208",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4128268",
+   "metal": "Pb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4131237",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4131238",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4131239",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4131240",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4131512",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4132445",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4132446",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134812",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134813",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134814",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134815",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134816",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4134817",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134818",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134819",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4134820",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4135512",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4345875",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4345876",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4350085",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4515188",
+   "metal": "Pb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4516201",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4516204",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4516750",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4516751",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7037576",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7037577",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7059143",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7060112",
+   "metal": "Pb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7060113",
+   "metal": "Pb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7061025",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7121436",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7123911",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7123912",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7123913",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7123914",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7129390",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7132115",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7133988",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7203880",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7241341",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7241526",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7241527",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.006,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7241964",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7706149",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "8000428",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "8000498",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "8000499",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "8000500",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1572983",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1576129",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4128537",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4128538",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134351",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4517473",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7126409",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7133987",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "8000564",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1559217",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1575247",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1575253",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7130004",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7241260",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7241919",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "12D",
+   "tsa": "12D"
+  },
+  {
+   "cod": "1526719",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1544657",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1549184",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1549185",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1550206",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1550207",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1550208",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1550209",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1562165",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.154,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1571897",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1571898",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1571899",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1571900",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1571901",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1571902",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1571903",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1571904",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1571905",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1571906",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1575192",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1575248",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1575251",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1577096",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "2015357",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "2212136",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "2218672",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4002905",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003006",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003007",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003076",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003077",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003078",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003079",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003080",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003234",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003235",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003236",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003313",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003315",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003962",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4004071",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127190",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127191",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127192",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127193",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127636",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127637",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127721",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127722",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127723",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127724",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127725",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127726",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127727",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4127728",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4128314",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4128315",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4128385",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4128386",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4128387",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4128388",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4128389",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4128390",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4128391",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4131705",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4131706",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4132015",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4132048",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4132049",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4132051",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4132053",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4132054",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4132055",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4132056",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4132057",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4132978",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4132979",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4132980",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4132981",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4132982",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4132983",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134198",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134199",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134200",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134201",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134279",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4134350",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4134561",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4134565",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4134988",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4349804",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4349805",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4350084",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.009,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4350086",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4350087",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4350088",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4516203",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4516205",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4516749",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4516752",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4517790",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "4517791",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "4518609",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4518728",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4518729",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4518730",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7031553",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7031555",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7122921",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7134428",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7134433",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7134435",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7203879",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7204039",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7205258",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7205259",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7205260",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7205261",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7205262",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7205263",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7205264",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7205265",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7207986",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7241115",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "12D",
+   "tsa": "12D"
+  },
+  {
+   "cod": "7241116",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7241117",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7241118",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7241119",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7241261",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7241916",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7241917",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7241918",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7241920",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7241921",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7241963",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7241965",
+   "metal": "Pb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7709965",
+   "metal": "Pb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7709966",
+   "metal": "Pb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7714328",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4134564",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4301416",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7123548",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 2,
+   "D": 2.114,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7123549",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7123550",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7123551",
+   "metal": "Pb",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7134429",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134430",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134431",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134432",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134434",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134436",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134437",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134438",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134439",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134440",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134441",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134442",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7134444",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7714329",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7714331",
+   "metal": "Pb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7128642",
+   "metal": "Sn",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003559",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "1548141",
+   "metal": "Sn",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003558",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4128270",
+   "metal": "Sn",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7715089",
+   "metal": "Sn",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4514329",
+   "metal": "Sn",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4031610",
+   "metal": "Sn",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1548143",
+   "metal": "Sn",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003314",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003316",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4134560",
+   "metal": "Sn",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4134562",
+   "metal": "Sn",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4134563",
+   "metal": "Sn",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4134836",
+   "metal": "Sn",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4134837",
+   "metal": "Sn",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4134838",
+   "metal": "Sn",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4313317",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4518603",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4518604",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4518605",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4518606",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4518607",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4518608",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4518610",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7131798",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7131799",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7204040",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7714330",
+   "metal": "Sn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003025",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "4003891",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4003894",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "2021923",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4340128",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.061,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4515261",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.142,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7062087",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7062088",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7247803",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7247809",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7247812",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7250866",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7701110",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.144,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7701112",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7719611",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7247804",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7247805",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7247807",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7247810",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7247811",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7704087",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1574020",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.124,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "1566719",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1566721",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1576182",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7038118",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7038119",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7247806",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7247808",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7701109",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7701111",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7719613",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "1566720",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1569710",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1569711",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1576181",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003950",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4129205",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4129206",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4129209",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7130553",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7249564",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7249565",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7131970",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003496",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4004019",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4004020",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7039178",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7039180",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7039181",
+   "metal": "Bi",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7131865",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7131969",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7132618",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7251673",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7704084",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7704085",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7716690",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7716697",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7716698",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7717430",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7719612",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7126035",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7710137",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7710138",
+   "metal": "Bi",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7716696",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7716700",
+   "metal": "Bi",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003890",
+   "metal": "Sb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "4003892",
+   "metal": "Sb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7712891",
+   "metal": "Sb",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1508068",
+   "metal": "Sb",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "1548142",
+   "metal": "Sb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4004059",
+   "metal": "Sb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4004060",
+   "metal": "Sb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7706577",
+   "metal": "Sb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7720564",
+   "metal": "Sb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7720565",
+   "metal": "Sb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1569709",
+   "metal": "Sb",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7717571",
+   "metal": "Sb",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.053,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "8000561",
+   "metal": "Sb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.018,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1569708",
+   "metal": "Sb",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7249566",
+   "metal": "Sb",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4338882",
+   "metal": "Sb",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7716691",
+   "metal": "Sb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7716693",
+   "metal": "Sb",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1558867",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.13,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7104067",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "1501623",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1501631",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1562560",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1562561",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "2013275",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "2015299",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "2200570",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4000048",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.001,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4000049",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4002675",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4002676",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4003668",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4003669",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4060781",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.016,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "4134301",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4134302",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4504900",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4506153",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4506155",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4506156",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "4511460",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7004584",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.096,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7008807",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7009301",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.01,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7120681",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7120686",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7120687",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7120688",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7120689",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7120691",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7120692",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7218343",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7243557",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7243559",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.035,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7243560",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.022,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7245910",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.014,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "8000511",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1562562",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1562563",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4109846",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4327554",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.025,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4327555",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7720988",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7104068",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7717050",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1570928",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4314509",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4320640",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4320641",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4321833",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.202,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4321834",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4337968",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 1,
+   "D": 1.012,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4502136",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "4511485",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4511487",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4519373",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7001792",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7003825",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7004583",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.033,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7008808",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7011258",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7013829",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.67,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7037797",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.326,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7102078",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7102079",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7102080",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7207611",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7207612",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.107,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7211803",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7237835",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7243108",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7243109",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7700079",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.02,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7701916",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.017,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7717051",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.005,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7717052",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1550904",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "1550905",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.006,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "1550906",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "1550907",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.012,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "1550908",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "1550909",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.004,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "4345710",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4345711",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 1,
+   "D": 1.066,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "4346357",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4346358",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4347076",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4501648",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4511488",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.007,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4511489",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.007,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4518687",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7002489",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.006,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7002490",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "12D",
+   "tsa": "12D"
+  },
+  {
+   "cod": "7002491",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7002492",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7008809",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7052559",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7052560",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.055,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7052561",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.052,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7133572",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7205945",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 2,
+   "D": 2.017,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7212576",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.004,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7212577",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 1,
+   "D": 1.025,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7212578",
+   "metal": "Cu",
+   "stated": 3,
+   "d_top": 1,
+   "D": 1.018,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7217320",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7217321",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.025,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7217322",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.034,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7217323",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7240387",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.161,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7249652",
+   "metal": "Cu",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7700077",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7700078",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7700080",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7700081",
+   "metal": "Cu",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.023,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7701914",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.022,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7701915",
+   "metal": "Cu",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4508861",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "2017395",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "4004074",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4004075",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4004077",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4004078",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4129207",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "1570929",
+   "metal": "Ag",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1572417",
+   "metal": "Ag",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1572418",
+   "metal": "Ag",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "1572419",
+   "metal": "Ag",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4129208",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4348875",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4348876",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4348877",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4348878",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4518638",
+   "metal": "Ag",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "4518639",
+   "metal": "Ag",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4518640",
+   "metal": "Ag",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "4518641",
+   "metal": "Ag",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7714881",
+   "metal": "Ag",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "4346359",
+   "metal": "Ag",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7001487",
+   "metal": "Ag",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7001488",
+   "metal": "Ag",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7001489",
+   "metal": "Ag",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7134657",
+   "metal": "Ag",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7134658",
+   "metal": "Ag",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7134659",
+   "metal": "Ag",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7223490",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4346350",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7222998",
+   "metal": "Ag",
+   "stated": 3,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7223487",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7223488",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7223489",
+   "metal": "Ag",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7229709",
+   "metal": "Ag",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7248307",
+   "metal": "Ag",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "7248308",
+   "metal": "Ag",
+   "stated": 3,
+   "d_top": 3,
+   "D": 3.0,
+   "rda": "03D",
+   "tsa": "03D"
+  },
+  {
+   "cod": "1541840",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "1577057",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1577058",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1577059",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1577060",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1577061",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "2011014",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "2019603",
+   "metal": "Mn",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "2022165",
+   "metal": "Mn",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "2312855",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "2312856",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4312969",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "4313701",
+   "metal": "Mn",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "4313702",
+   "metal": "Mn",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7204089",
+   "metal": "Mn",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7234581",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7234582",
+   "metal": "Mn",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "2017239",
+   "metal": "Mn",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7001582",
+   "metal": "Mn",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7713572",
+   "metal": "Mn",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7718749",
+   "metal": "Mn",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "8000443",
+   "metal": "Mn",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "8000440",
+   "metal": "Mn",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "8000441",
+   "metal": "Mn",
+   "stated": 0,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7246222",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7702174",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "2015304",
+   "metal": "Cd",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "2018994",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "2019470",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "2019784",
+   "metal": "Cd",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.014,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "2104940",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "2104941",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "2104942",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "2201980",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "2213334",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "4340722",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4340723",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4340724",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4341244",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.209,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "4341245",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.205,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4341246",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.356,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4349730",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4349731",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "4349810",
+   "metal": "Cd",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "4501560",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "4502134",
+   "metal": "Cd",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "3D",
+   "tsa": "3D"
+  },
+  {
+   "cod": "7135041",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7135042",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7216315",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7216319",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7216325",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7216329",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7216330",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7216331",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7223786",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7223789",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7237342",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7237479",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7237480",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7246225",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7248752",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.005,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7248753",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7248754",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7248755",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.005,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7713571",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "1565343",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7216320",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7216321",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7216322",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7702175",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7702176",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7702177",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7713570",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "2017238",
+   "metal": "Cd",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4349732",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "7216316",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7216323",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7216326",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7216332",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7216333",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7223787",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7245909",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "7216324",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "8103658",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "02D",
+   "tsa": "02D"
+  },
+  {
+   "cod": "8103827",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "8104379",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 2,
+   "D": 2.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "1563058",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "2018945",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "4504413",
+   "metal": "Cd",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": null,
+   "tsa": null
+  },
+  {
+   "cod": "7057595",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7216317",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7216318",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7216327",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7216328",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  },
+  {
+   "cod": "7216334",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7216335",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7216336",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7216337",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7216338",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7216339",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7216340",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "2D",
+   "tsa": "2D"
+  },
+  {
+   "cod": "7223788",
+   "metal": "Cd",
+   "stated": 1,
+   "d_top": 1,
+   "D": 1.0,
+   "rda": "1D",
+   "tsa": "1D"
+  },
+  {
+   "cod": "7237343",
+   "metal": "Cd",
+   "stated": 2,
+   "d_top": 1,
+   "D": 1.029,
+   "rda": "01D",
+   "tsa": "01D"
+  },
+  {
+   "cod": "2015431",
+   "metal": "Cd",
+   "stated": 3,
+   "d_top": 0,
+   "D": 0.0,
+   "rda": "0D",
+   "tsa": "0D"
+  }
+ ]
+}

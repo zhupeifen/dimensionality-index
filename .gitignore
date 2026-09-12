@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+figures/rendered/
+
+# MATLAB figure scripts are not distributed
+*.m

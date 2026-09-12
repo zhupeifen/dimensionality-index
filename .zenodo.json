@@ -1,0 +1,33 @@
+{
+  "title": "A sublattice dimensionality index: code and computed results",
+  "upload_type": "dataset",
+  "description": "Code and computed results behind 'A sublattice dimensionality index validated against deposited metal halides'. Contains the reference implementation of the index, the database-scale indexer, every script that produced a number in the paper, and the computed indices for 703 metal halides and 158 metal chalcogenides carrying author-stated dimensionality labels, together with the stoichiometric baseline, the whole-network comparison and the throughput measurements. Structures are identified by Crystallography Open Database entry number rather than redistributed.",
+  "creators": [
+    {
+      "name": "Zhu, Peifen",
+      "affiliation": "University of Missouri",
+      "orcid": "0000-0002-5269-541X"
+    }
+  ],
+  "keywords": [
+    "dimensionality",
+    "crystal structure",
+    "metal halides",
+    "chalcogenides",
+    "sublattice",
+    "Crystallography Open Database",
+    "descriptor",
+    "screening"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.1107/S0021889809016690",
+      "relation": "cites",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    }
+  ]
+}
