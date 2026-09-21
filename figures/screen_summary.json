@@ -46,13 +46,27 @@
   3.0,
   3.0
  ],
- "binary_Cu1": [
+ "binary_all": [
   0,
   0,
   8,
   29
  ],
- "binary_Cu1_n": 37,
+ "binary_all_n": 37,
+ "binary_Cu1": [
+  0,
+  0,
+  5,
+  29
+ ],
+ "binary_Cu1_n": 34,
+ "binary_Cu2": [
+  0,
+  0,
+  3,
+  0
+ ],
+ "binary_Cu2_n": 3,
  "ours": {
   "Cs2CuCl4": 0.0,
   "Cs3Cu2Cl5": 0.0,

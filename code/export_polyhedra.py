@@ -40,11 +40,28 @@ SETS = {
     # the database paper: one lead-halide family, rank 0 to 3
     "npj": [
         dict(cod="1538416", metal="Pb", anion="Br", cation="Cs",
-             name="Cs4PbBr6", pretty="Cs_4PbBr_6"),
+             name="Cs4PbBr6", pretty="Cs_4PbBr_6",
+             # The isolated PbBr6 octahedra sit on the cell faces, and the
+             # bromides completing them lie up to 0.170, 0.170 and 0.099 of
+             # the way outside on a 13.7 x 13.7 x 17.3 A cell. At the 0.06
+             # used by default most of them draw open, as loose Pb-Br sticks
+             # rather than as the isolated units the panel is there to show.
+             batom=(0.185, 0.185, 0.114)),
         dict(cod="4127358", metal="Pb", anion="I", cation="Cs",
-             name="CsPbI3-delta", pretty="\delta-CsPbI_3"),
+             name="CsPbI3-delta", pretty="\delta-CsPbI_3",
+             # The margin that would close every octahedron here - 0.031,
+             # 0.098, 0.130 - also reaches the neighbouring chains, and they
+             # merge into a continuous slab: the 1D panel then reads as 2D.
+             # Separation between the chains is what this panel is for, so the
+             # default is kept and the boundary octahedra are left to the
+             # pruning step instead.
+             batom=None),
         dict(cod="9009140", metal="Pb", anion="I", cation=None,
-             name="PbI2", pretty="PbI_2"),
+             name="PbI2", pretty="PbI_2",
+             # 0.167, 0.167 and 0.133 on a 9.1 x 9.1 x 14.0 A cell. Below
+             # this the outer two layers draw without octahedra at all, and
+             # a panel that has to show layers is left with one.
+             batom=(0.182, 0.182, 0.148)),
         dict(cod="1530681", metal="Pb", anion="Br", cation="Cs",
              name="CsPbBr3", pretty="CsPbBr_3"),
     ],
@@ -53,11 +70,52 @@ SETS = {
         dict(cod="7246298", metal="Cu", anion="Cl", cation="Cs",
              name="Cs3Cu2Cl5", pretty="Cs_3Cu_2Cl_5"),
         dict(cod="1536279", metal="Cu", anion="I", cation="Cs",
-             name="CsCu2I3", pretty="CsCu_2I_3"),
+             name="CsCu2I3", pretty="CsCu_2I_3", box_override=(1, 1, 3),
+             # Along a, chain axis upright. The automatic rule picks a
+             # perpendicular that projects the cell's two double chains onto
+             # one another, and the panel reads as a wall; down the chain axis
+             # separates them but hides the extension, leaving 1D looking like
+             # the 0D panel. This view shows both: chains running the height of
+             # the panel with open space between them.
+             view_override=(90, 0),
+             # wide enough that a Cu at the cell face keeps the iodides that
+             # close its tetrahedron. The fraction reaching a 2.6 A bond
+             # differs by axis on a 10.5 x 13.1 x 18.2 A cell.
+             batom=(0.26, 0.21, 0.15)),
         dict(cod="1528214", metal="Cu", anion="Cl", cation="Rb",
-             name="Rb2CuCl4", pretty="Rb_2CuCl_4"),
+             name="Rb2CuCl4", pretty="Rb_2CuCl_4",
+             # Every Cu here is octahedral, and the chlorides completing the
+             # octahedra on the cell faces lie outside it: at most 0.150,
+             # 0.133 and 0.134 of the way past, on a 15.5 x 14.4 x 14.4 A
+             # cell. Below that the outer layers draw with their octahedra
+             # open. The values carry a little slack on each.
+             batom=(0.165, 0.148, 0.149)),
         dict(cod="7222858", metal="Cu", anion="I", cation=None,
-             name="CuI", pretty="CuI"),
+             name="CuI", pretty="CuI", box_override=(2, 2, 2),
+             # Two repeats along every axis. A compacter 2x2x1 block was tried,
+             # to avoid the 8.6 x 8.6 x 14.2 A column that 2x2x2 gives, and it
+             # was a mistake: one period along c is a single slab, and the
+             # panel then reads as layers - exactly what the 2D panel beside it
+             # shows. A 3D panel has to repeat along all three axes.
+             #
+             # The camera needs elevation for the same reason. Near edge-on the
+             # four tetrahedral layers project onto one another and flatten.
+             view_override=(160, 22),
+             # 0.167 along a and b reaches the iodides that close a Cu on the
+             # cell face; along c nothing is needed, the axial iodide is
+             # already inside. Margin along c only adds a further layer of Cu
+             # outside the cell with part of their own shell missing, which
+             # draw as bare atoms on dangling bonds.
+             batom=(0.182, 0.182, 0.02)),
+        # CuI is wurtzite-like: a = 4.31, c = 7.09. Two repeats along every
+        # axis gives 8.6 x 7.5 x 14.2 A, a narrow column rather than a
+        # framework, so c is left at one repeat and the block is near-cubic;
+        # the two tetrahedral layers of the stacking are both still present.
+        # The wider margin is what makes it read as a framework at all: at the
+        # 0.06 used elsewhere only about four of sixteen Cu sites keep the
+        # full iodide shell that draws a tetrahedron and the rest come out as
+        # bare ball-and-stick. 0.18 is where that saturates; beyond it only
+        # loose edge atoms are added.
     ],
 }
 
@@ -188,11 +246,28 @@ def main():
         reach = cells.max(axis=0) - cells.min(axis=0)
         spans = reach >= (R - 1)          # walked the full block along this axis
         nper = int(spans.sum())
-        # two repeats is enough to show that a unit propagates; three only
-        # stretches the panel and shrinks every polyhedron in the figure,
-        # since all four panels share one scale
-        mult = 2
-        box = tuple(int(mult if spans[i] else 1) for i in range(3))
+        # A chain needs three repeats along itself before it reads as a chain
+        # rather than a stack of two; layers and frameworks are unambiguous at
+        # two. Panels are framed individually, so a longer 1D panel costs the
+        # others nothing.
+        mult = 3 if nper == 1 else 2
+        box = [int(mult if spans[i] else 1) for i in range(3)]
+        if nper == 1:
+            # one chain on its own still looks like a solid rod. Repeating once
+            # across the chain puts a second chain beside it, and the gap between
+            # them is the thing the panel has to show. The shortest perpendicular
+            # axis is chosen so the panel stays compact.
+            perp = [i for i in range(3) if not spans[i]]
+            j = min(perp, key=lambda i: float(np.linalg.norm(L[i])))
+            box[j] = 2
+        if p.get("box_override"):
+            # CsCu2I3 is a double, edge-sharing chain: two of them side by
+            # side touch and read as a block. One chain, repeated along
+            # itself, shows "extends in one direction only" without the
+            # collision. The rule above is right for the other 1D cases.
+            box = tuple(p["box_override"])
+        else:
+            box = tuple(box)
 
         M = replicate(p["metal"], box)
         X = replicate(p["anion"], box)
@@ -242,6 +317,10 @@ def main():
                     "dmin": round(d0, 3), "box": list(box),
                     "L": [[round(float(c), 5) for c in row] for row in L],
                     "spans": [bool(x) for x in spans],
+                    "view_override": list(p.get("view_override") or []),
+                    "batom": ([float(x) for x in p["batom"]]
+                              if isinstance(p.get("batom"), (list, tuple))
+                              else float(p.get("batom") or 0)),
                     "polys": polys, "cations": cats, "cell": segs})
         print("{:14s} cod {:>8}  box {}  {:>3} polyhedra  CN {}  {:>3} cations  "
               "d_top {}  D {}  spans {}".format(

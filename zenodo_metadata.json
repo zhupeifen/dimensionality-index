@@ -1,7 +1,7 @@
 {
  "title": "A sublattice dimensionality index: code and computed results",
  "upload_type": "dataset",
- "description": "Code and computed results behind 'A sublattice dimensionality index validated against deposited metal halides'. Contains the reference implementation of the index, the database-scale indexer, every script that produced a number in the paper, and the computed indices for 703 metal halides and 158 metal chalcogenides carrying author-stated dimensionality labels, together with the stoichiometric baseline, the whole-network comparison and the throughput measurements. Structures are identified by Crystallography Open Database entry number rather than redistributed.",
+ "description": "Code and computed results behind 'A sublattice dimensionality index validated against deposited halides and chalcogenides'. Contains the reference implementation of the index, the database-scale indexer, every script that produced a number in the paper, and the computed indices for 703 metal halides and 158 metal chalcogenides carrying author-stated dimensionality labels, together with the stoichiometric baseline, the whole-network comparison, the two copper-halide database screens, the sensitivity sweep over the candidate search radius and the throughput measurements. Structures are identified by Crystallography Open Database entry number rather than redistributed. Version 2 rebuilds the record from the sources behind the submitted manuscript: it adds reindex_allmetal.py and its 703-row output, the 3,512-row hybrid screen and both screening scripts, the R_next sweep and the rank-stratified analysis of the fractional term, and a manifest with SHA-256 hashes. MATLAB plotting scripts included in version 1 in error are withdrawn; they are part of an internal library that is not distributed, and every value they draw remains in the JSON files here.",
  "creators": [
   {
    "name": "Zhu, Peifen",
@@ -30,5 +30,6 @@
    "resource_type": "publication-article"
   }
  ],
- "notes": "Code under MIT, data under CC BY 4.0; see LICENSE.txt. Reserve the DOI before submission and cite it in the manuscript's Data availability statement."
+ "notes": "Code under MIT, data under CC BY 4.0; see LICENSE.txt. Version 2 supersedes version 1: see the description for what changed.",
+ "version": "2.0.0"
 }

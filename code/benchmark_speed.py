@@ -26,6 +26,8 @@ warnings.filterwarnings("ignore")
 SRC, CACHE, OUT = sys.argv[1], sys.argv[2], sys.argv[3]
 LAM, NEXT_CUT = 1.0, 8.0
 CUT = {"Cl": 3.10, "Br": 3.30, "I": 3.60}
+NONMETAL = {"H", "D", "C", "N", "O", "S", "Se", "Te", "P", "F", "As", "B", "Si"}
+ASITE = {"Li", "Na", "K", "Rb", "Cs", "Fr", "Tl"}
 
 
 def symbols(st):
@@ -67,7 +69,13 @@ def index_of(st, metal, halides):
     A = np.array(st.lattice.matrix)
     frac = np.array([s.frac_coords for s in st.sites]) % 1.0
     sym = symbols(st)
-    M = [i for i, e in enumerate(sym) if e == metal]
+    # The framework metals are taken as one sublattice, as Section 3 requires,
+    # and the A-site cations are excluded: they are metals but spacers, not
+    # network formers. Timing on a single named metal understates the cost,
+    # because the O(N^2) shell search is quadratic in the number of centres and
+    # a mixed-metal structure presents more of them.
+    M = [i for i, e in enumerate(sym)
+         if e not in NONMETAL and e not in CUT and e not in ASITE]
     X = [(i, sym[i]) for i, e in enumerate(sym) if e in (halides or CUT)]
     if not M or not X:
         return None

@@ -1,0 +1,240 @@
+{
+ "generated_for": "Sublattice dimensionality index, J. Appl. Cryst. submission",
+ "files": [
+  {
+   "path": ".zenodo.json",
+   "bytes": 1858,
+   "sha256": "bbb781defc8417979f7dc989745e83a73b33c0cba6424945d84ceccc6b2e64af"
+  },
+  {
+   "path": "LICENSE.txt",
+   "bytes": 1238,
+   "sha256": "e7d65d5fcce26473616ba0301fc5141e15cc9a264758744a6d92a199c427b9c1"
+  },
+  {
+   "path": "README.md",
+   "bytes": 8138,
+   "sha256": "224fabe05925510c0b2982e8ad0099e9a383c08de15dcc14081f01225afd1dc6"
+  },
+  {
+   "path": "code/baseline_and_scale.py",
+   "bytes": 6270,
+   "sha256": "425500f95ae47d04c3b89b5d3d967aee32190c6ddb9fba30e082e0626e3fbec9"
+  },
+  {
+   "path": "code/benchmark_speed.py",
+   "bytes": 6608,
+   "sha256": "d37ab83a386c8b1f2057db1d5989890963e1af97f1cc54ce96013d8cb8ae2d6f"
+  },
+  {
+   "path": "code/benchmark_vs_ase.py",
+   "bytes": 6218,
+   "sha256": "b2c85ac2353bb373fb53339ca9298d6b1f8f6f6f40cf52bfd7ec95c026ad71f2"
+  },
+  {
+   "path": "code/cod_wide_index.py",
+   "bytes": 9800,
+   "sha256": "544b5a7dff1bf922a9052afa7fdc80585e75d66ad13f66120a6707d4fb38f7e3"
+  },
+  {
+   "path": "code/codscreen_hybrid.py",
+   "bytes": 7603,
+   "sha256": "025513a092ad4de29d615d158364646cf93bab5428285df14688978255788790"
+  },
+  {
+   "path": "code/codscreen_wide.py",
+   "bytes": 5556,
+   "sha256": "401402a45c6c621e4d6052e84f48e3fc9b460e5e6b93205d046ca420c3dc6f02"
+  },
+  {
+   "path": "code/dimindex.py",
+   "bytes": 7725,
+   "sha256": "9ec21130a125e49297632f76b28cf96589917c781b06a357d527f55ed41f7c5b"
+  },
+  {
+   "path": "code/export_polyhedra.py",
+   "bytes": 15661,
+   "sha256": "bd3f5616f4b852824faf27cbe88861a36dcb1672318d22c2b425c39cfa5df20d"
+  },
+  {
+   "path": "code/fetch_cifs.py",
+   "bytes": 3166,
+   "sha256": "759a8946fb9235538326c4de3e5c650a640efd217fd29dd135d301c29b70d408"
+  },
+  {
+   "path": "code/fix_wnext.py",
+   "bytes": 8731,
+   "sha256": "9208a7c1a294053320c09dd001c9e8ec1b601b605e4fadbed60049ece5687544"
+  },
+  {
+   "path": "code/frac_stratified.py",
+   "bytes": 3633,
+   "sha256": "31dff058cb6b9b0c0357d0bf00083ca8711e5c2a96ea372b8bda14d2e33a0751"
+  },
+  {
+   "path": "code/harvest_chalcogenides.py",
+   "bytes": 10920,
+   "sha256": "4b99fb90854e49eaabd4aa7503b34b512ce1c4a346fe989ea4b084c81f50d728"
+  },
+  {
+   "path": "code/harvest_validation.py",
+   "bytes": 10872,
+   "sha256": "ee37c7b1c5a173417e2a055c5645faeba0d1f5c837c4d574e8aeb6ab7fafe837"
+  },
+  {
+   "path": "code/reindex_allmetal.py",
+   "bytes": 8171,
+   "sha256": "32fc25e4fa6c2f57e3b41be3b2d56c419230af5d5fd9e77ba44beae493ba3449"
+  },
+  {
+   "path": "code/reindex_chalc_multimetal.py",
+   "bytes": 7122,
+   "sha256": "88964caab8726949703df518b712968282834c05816a4e7c267d8e8fd347d957"
+  },
+  {
+   "path": "code/reindex_multihalide.py",
+   "bytes": 6997,
+   "sha256": "14313fc0f90b3fe0ba68e33a4203d40554fb5a2b72c1a22ff319c628c1a0313f"
+  },
+  {
+   "path": "code/retile_panel.py",
+   "bytes": 3901,
+   "sha256": "4fe9a963facd9d02085b26bf727d368d6f51f0f1ddc7f5a8c40584fd00db0f51"
+  },
+  {
+   "path": "code/sweep_rnext.py",
+   "bytes": 3952,
+   "sha256": "39ec8655c8441c65deeacd3552276b4418b75760d49790bfdc1fc7dbe22a6076"
+  },
+  {
+   "path": "code/wholenet_scale.py",
+   "bytes": 4747,
+   "sha256": "ebf16b666f3a3d8b59642d083be820b34c24e491e3873a861c4ef086667f7724"
+  },
+  {
+   "path": "data/baseline_scale.json",
+   "bytes": 94275,
+   "sha256": "f1b78daf3aef005d1a23feeed1bef5f91c2c3eff85e233a0944e63d93fe8ef08"
+  },
+  {
+   "path": "data/benchmark_vs_ase.json",
+   "bytes": 1570,
+   "sha256": "01a2f76dc8c8db110dd1537c1d11903ea8a50fabeb3c1a9c55a8381cfe905643"
+  },
+  {
+   "path": "data/cod_hybrid.json",
+   "bytes": 1534780,
+   "sha256": "22e33e5ca88b3267ecc775d54cfdf1a38445f04946fc307aa3f6e3eeac536dd8"
+  },
+  {
+   "path": "data/jac_panels.json",
+   "bytes": 64905,
+   "sha256": "6e3cae259bb329f306c1a6cccf2db0eeb095850045b314727a0ffde2ca982ced"
+  },
+  {
+   "path": "data/screen_summary_wide.json",
+   "bytes": 706,
+   "sha256": "a3fbd511db3187fe7cf25ac18fb1c211ae8c6ac4226441acfadf46e5fe174fad"
+  },
+  {
+   "path": "data/speed.json",
+   "bytes": 50390,
+   "sha256": "1cc5272e990f5139f830a68268e3afbcf920781e446b6f91c1847975f0712e30"
+  },
+  {
+   "path": "data/sweep_rnext.json",
+   "bytes": 595767,
+   "sha256": "7ea1720db97c09de2d308e34d96225ccb3b384a71729f3ccd3b13aa93d088c06"
+  },
+  {
+   "path": "data/validation_allmetal.json",
+   "bytes": 86579,
+   "sha256": "d5cc70fcde2eba9d12e8ad8ea9e19d4ca3a0b6e5fd3f5510241733dfb6b30117"
+  },
+  {
+   "path": "data/validation_allmetal703.json",
+   "bytes": 411427,
+   "sha256": "e4673ff08c1ca9afab4f363be073c01da3761efe495c2c35c0d206866b46568a"
+  },
+  {
+   "path": "data/validation_chalc_multimetal.json",
+   "bytes": 59746,
+   "sha256": "d61ea7c0362851d9f16a95b2ddd227c92924699a3decf6e7120a128dc094d8e6"
+  },
+  {
+   "path": "data/validation_chalcogenides.json",
+   "bytes": 53614,
+   "sha256": "459851e64c3cd2ca7959fa6d5dbd37129afc766fcd3f6e1cb60e60fa9c7c5882"
+  },
+  {
+   "path": "data/validation_guards.json",
+   "bytes": 399969,
+   "sha256": "78ace0b5aeb18df5a0f42452822c4f9f49916bcde750307e34c2cd7e7ba7eb2c"
+  },
+  {
+   "path": "data/validation_multihalide.json",
+   "bytes": 333271,
+   "sha256": "ff234a7312417b4691ce16ba13ef127d18ccba961a19070ec495875509e6b015"
+  },
+  {
+   "path": "data/wholenet_scale.json",
+   "bytes": 1018404,
+   "sha256": "d4e91ce023ce031e394e6e704e762d02fda23c9ad41981b657975902aacdce88"
+  },
+  {
+   "path": "figures/Fig_cod_screen.png",
+   "bytes": 287032,
+   "sha256": "154c7219306b4ad2708eafd98e99616c86d8e7c236604d28a730d064f73e02d1"
+  },
+  {
+   "path": "figures/Fig_descriptor_test.png",
+   "bytes": 409157,
+   "sha256": "0d265837f202043285b693ceef2fd20a2e11d540204fcf275f217d6592ec9843"
+  },
+  {
+   "path": "figures/Fig_dimensionality_index.png",
+   "bytes": 258281,
+   "sha256": "5a2faebaf8daabb7f2bdcb76265f0f3acec2357941d757fff58994e4de44a4ff"
+  },
+  {
+   "path": "figures/Fig_index_robustness.png",
+   "bytes": 314903,
+   "sha256": "30b6ae8c5c251ab31fb50a5c177a0da9c2cd4f8f05d778621d966f75d3a48922"
+  },
+  {
+   "path": "figures/Fig_jac_structures.png",
+   "bytes": 2500106,
+   "sha256": "d4a0509f9502c610a9e7a96dc0e748f2d46bf527fbe4570c663b448ca7628735"
+  },
+  {
+   "path": "figures/Fig_validation.png",
+   "bytes": 465097,
+   "sha256": "7892433b98e381d343df0dfd4954ccfc5a14cd4ead0a9e51d7ce5274fb752986"
+  },
+  {
+   "path": "figures/figdata.json",
+   "bytes": 3032,
+   "sha256": "f2978032b6896ec45ef322859fa94e5ce7b3f7491cdfae8d25868403d3130207"
+  },
+  {
+   "path": "figures/screen_summary.json",
+   "bytes": 706,
+   "sha256": "a3fbd511db3187fe7cf25ac18fb1c211ae8c6ac4226441acfadf46e5fe174fad"
+  },
+  {
+   "path": "figures/spectra_curves.json",
+   "bytes": 9279,
+   "sha256": "ecc1b28a15f47fb308cbdf2436c45e3d4c65dd0f5a703e08bcda69bb5bfd452a"
+  },
+  {
+   "path": "figures/spectra_descriptors.json",
+   "bytes": 1215,
+   "sha256": "5f8afbf9c3e01a5bab6caa2ddd3fe9e6c8bfde29ec2c8bf77e0c49c47c3f67ad"
+  },
+  {
+   "path": "zenodo_metadata.json",
+   "bytes": 1996,
+   "sha256": "c780579adfdab4213d369bc0ad9bd6aadcd3b29e63dfa37f7a5fda72cd645735"
+  }
+ ]
+}

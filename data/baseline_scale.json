@@ -2,7 +2,7 @@
  "baseline_all": {
   "n": 703,
   "baseline": 461,
-  "index": 498,
+  "index": 524,
   "rule": {
    "2.5": 2,
    "4.0": 2,
@@ -31,7 +31,7 @@
  "baseline_frame": {
   "n": 444,
   "baseline": 322,
-  "index": 377,
+  "index": 397,
   "rule": {
    "2.5": 2,
    "4.0": 2,
@@ -1516,7 +1516,7 @@
    "cod": "7126409",
    "metal": "Pb",
    "stated": 3,
-   "d_top": 0,
+   "d_top": 3,
    "D": 0.0,
    "rda": "03D",
    "tsa": "03D"
@@ -3019,7 +3019,7 @@
    "cod": "7714329",
    "metal": "Pb",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -3028,7 +3028,7 @@
    "cod": "7714331",
    "metal": "Pb",
    "stated": 2,
-   "d_top": 1,
+   "d_top": 2,
    "D": 1.0,
    "rda": "02D",
    "tsa": "02D"
@@ -3100,7 +3100,7 @@
    "cod": "4031610",
    "metal": "Sn",
    "stated": 3,
-   "d_top": 0,
+   "d_top": 3,
    "D": 0.0,
    "rda": "03D",
    "tsa": "03D"
@@ -3586,7 +3586,7 @@
    "cod": "1566720",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 1,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -3595,7 +3595,7 @@
    "cod": "1569710",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -3604,7 +3604,7 @@
    "cod": "1569711",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -3613,7 +3613,7 @@
    "cod": "1576181",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -3622,7 +3622,7 @@
    "cod": "4003950",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -3631,7 +3631,7 @@
    "cod": "4129205",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -3640,7 +3640,7 @@
    "cod": "4129206",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "02D",
    "tsa": "02D"
@@ -3649,7 +3649,7 @@
    "cod": "4129209",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "02D",
    "tsa": "02D"
@@ -3658,7 +3658,7 @@
    "cod": "7130553",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -3667,7 +3667,7 @@
    "cod": "7249564",
    "metal": "Bi",
    "stated": 1,
-   "d_top": 0,
+   "d_top": 1,
    "D": 0.0,
    "rda": "01D",
    "tsa": "01D"
@@ -3676,7 +3676,7 @@
    "cod": "7249565",
    "metal": "Bi",
    "stated": 1,
-   "d_top": 0,
+   "d_top": 1,
    "D": 0.0,
    "rda": "01D",
    "tsa": "01D"
@@ -3847,7 +3847,7 @@
    "cod": "7126035",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -3856,7 +3856,7 @@
    "cod": "7710137",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": null,
    "tsa": null
@@ -3865,7 +3865,7 @@
    "cod": "7710138",
    "metal": "Bi",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -4009,7 +4009,7 @@
    "cod": "1569708",
    "metal": "Sb",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -4018,7 +4018,7 @@
    "cod": "7249566",
    "metal": "Sb",
    "stated": 1,
-   "d_top": 0,
+   "d_top": 1,
    "D": 0.0,
    "rda": null,
    "tsa": null
@@ -4027,7 +4027,7 @@
    "cod": "4338882",
    "metal": "Sb",
    "stated": 3,
-   "d_top": 0,
+   "d_top": 3,
    "D": 0.0,
    "rda": "3D",
    "tsa": "3D"
@@ -4090,7 +4090,7 @@
    "cod": "1562560",
    "metal": "Cu",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 1,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -5116,7 +5116,7 @@
    "cod": "4508861",
    "metal": "Ag",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "2D",
    "tsa": "2D"
@@ -5134,7 +5134,7 @@
    "cod": "4004074",
    "metal": "Ag",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -5152,7 +5152,7 @@
    "cod": "4004077",
    "metal": "Ag",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -5161,7 +5161,7 @@
    "cod": "4004078",
    "metal": "Ag",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -5170,7 +5170,7 @@
    "cod": "4129207",
    "metal": "Ag",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
@@ -5215,7 +5215,7 @@
    "cod": "4129208",
    "metal": "Ag",
    "stated": 2,
-   "d_top": 0,
+   "d_top": 2,
    "D": 0.0,
    "rda": "0D",
    "tsa": "0D"
