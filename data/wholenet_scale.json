@@ -236,7 +236,7 @@
   {
    "cod": "1535564",
    "cls": "halide",
-   "d_top": 2,
+   "d_top": 0,
    "frac": 0.5823,
    "nmetal": 24,
    "rda": "0D",
@@ -44835,7 +44835,7 @@
   {
    "cod": "2003705",
    "cls": "chalcogen",
-   "d_top": 0,
+   "d_top": 1,
    "frac": 0.3833,
    "nmetal": 18,
    "rda": "02D",
@@ -65702,7 +65702,7 @@
   {
    "cod": "7018157",
    "cls": "oxide",
-   "d_top": 0,
+   "d_top": 1,
    "frac": 0.0079,
    "nmetal": 18,
    "rda": null

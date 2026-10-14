@@ -13501,11 +13501,11 @@
   "formula": "C4 H12 Cl6 Cu3 N10",
   "disordered": false,
   "nsites": 35,
-  "D": 1.014,
+  "D": 1.018,
   "d_top": 1,
-  "frac": 0.0139,
+  "frac": 0.018,
   "nbridge": 10,
-  "d_next": 7.286,
+  "d_next": 7.024,
   "d0": 2.886,
   "halides_present": [
    "Cl"

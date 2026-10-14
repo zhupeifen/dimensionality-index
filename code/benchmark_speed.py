@@ -49,20 +49,28 @@ def rank(bonds):
         adj.setdefault(i, []).append((j, np.array(T)))
     if not adj:
         return 0
-    start = sorted(adj)[0]
-    pos, stack, trans = {start: np.zeros(3, int)}, [start], []
-    while stack:
-        u = stack.pop()
-        for (v, T) in adj.get(u, []):
-            nv = pos[u] + T
-            if v not in pos:
-                pos[v] = nv
-                stack.append(v)
-            else:
-                dl = nv - pos[v]
-                if dl.any():
-                    trans.append(dl)
-    return int(np.linalg.matrix_rank(np.array(trans, float), tol=1e-6)) if trans else 0
+    # every connected component is walked and the highest rank kept (corrected 14 Oct 2026;
+    # before, only the component holding the lowest-index metal was walked)
+    seen, best = set(), 0
+    for start in sorted(adj):
+        if start in seen:
+            continue
+        pos, stack, trans = {start: np.zeros(3, int)}, [start], []
+        while stack:
+            u = stack.pop()
+            for (v, T) in adj.get(u, []):
+                nv = pos[u] + T
+                if v not in pos:
+                    pos[v] = nv
+                    stack.append(v)
+                else:
+                    dl = nv - pos[v]
+                    if dl.any():
+                        trans.append(dl)
+        seen.update(pos)
+        if trans:
+            best = max(best, int(np.linalg.matrix_rank(np.array(trans, float), tol=1e-6)))
+    return best
 
 
 def index_of(st, metal, halides):

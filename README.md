@@ -140,3 +140,8 @@ shortcoming of it.
 ## Licence
 
 Code under the MIT licence; data under CC BY 4.0.
+
+## Version 2.0.1 (14 Oct 2026): correction
+
+The periodic rank was computed on the connected component of the bridging network that holds the lowest-index metal only, so a structure whose components differ in rank could depend on site order. `dimindex.periodic_rank` and the copies of the walk in `cod_wide_index.py`, `harvest_validation.py`, `harvest_chalcogenides.py`, `reindex_allmetal.py`, `reindex_multihalide.py`, `reindex_chalc_multimetal.py`, `fix_wnext.py`, `benchmark_speed.py` and `codscreen_hybrid.py` now take the highest rank over all components. Re-run from the same CIFs, the 703-halide validation set (`validation_allmetal703.json`) and the 158 chalcogenides change no integer rank; one fractional term moves (COD 7245910, D 1.014 to 1.018). Three rows of `wholenet_scale.json` take the corrected database rank. No agreement figure changes.
+

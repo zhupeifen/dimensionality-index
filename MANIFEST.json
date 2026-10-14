@@ -13,8 +13,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 8138,
-   "sha256": "224fabe05925510c0b2982e8ad0099e9a383c08de15dcc14081f01225afd1dc6"
+   "bytes": 8997,
+   "sha256": "3a47a9a851f027d0b1736ccd6d551061aad07c6f7ef00768d8cf62a60bfd30d8"
   },
   {
    "path": "code/baseline_and_scale.py",
@@ -23,8 +23,8 @@
   },
   {
    "path": "code/benchmark_speed.py",
-   "bytes": 6608,
-   "sha256": "d37ab83a386c8b1f2057db1d5989890963e1af97f1cc54ce96013d8cb8ae2d6f"
+   "bytes": 6962,
+   "sha256": "d9b2268049b7bdf9e48cf198a6cc18e2794da6eefcc64f2093ff360d87f904c8"
   },
   {
    "path": "code/benchmark_vs_ase.py",
@@ -33,13 +33,13 @@
   },
   {
    "path": "code/cod_wide_index.py",
-   "bytes": 9800,
-   "sha256": "544b5a7dff1bf922a9052afa7fdc80585e75d66ad13f66120a6707d4fb38f7e3"
+   "bytes": 10154,
+   "sha256": "389d4803b9ee74b89662f565e2e934b84ab7c326b83d769873365678cd8420bf"
   },
   {
    "path": "code/codscreen_hybrid.py",
-   "bytes": 7603,
-   "sha256": "025513a092ad4de29d615d158364646cf93bab5428285df14688978255788790"
+   "bytes": 8008,
+   "sha256": "57b430c5a90bcff842713af1d570791e538a5dc1b6b4c98a2ab320e1f662183d"
   },
   {
    "path": "code/codscreen_wide.py",
@@ -48,8 +48,8 @@
   },
   {
    "path": "code/dimindex.py",
-   "bytes": 7725,
-   "sha256": "9ec21130a125e49297632f76b28cf96589917c781b06a357d527f55ed41f7c5b"
+   "bytes": 8191,
+   "sha256": "2a7c30e75267288ec20a5bec46c393c69bed0a160637f7965bceb2638b364242"
   },
   {
    "path": "code/export_polyhedra.py",
@@ -63,8 +63,8 @@
   },
   {
    "path": "code/fix_wnext.py",
-   "bytes": 8731,
-   "sha256": "9208a7c1a294053320c09dd001c9e8ec1b601b605e4fadbed60049ece5687544"
+   "bytes": 9085,
+   "sha256": "632accab0e0d846db94a2f1aed3fc16c15d6ca2b3216349baad7c015fdfcbe25"
   },
   {
    "path": "code/frac_stratified.py",
@@ -73,28 +73,28 @@
   },
   {
    "path": "code/harvest_chalcogenides.py",
-   "bytes": 10920,
-   "sha256": "4b99fb90854e49eaabd4aa7503b34b512ce1c4a346fe989ea4b084c81f50d728"
+   "bytes": 11274,
+   "sha256": "edd28f06bcc15add39f0f80a649bd4ee673a9bee73ab1498bd890856924d5e27"
   },
   {
    "path": "code/harvest_validation.py",
-   "bytes": 10872,
-   "sha256": "ee37c7b1c5a173417e2a055c5645faeba0d1f5c837c4d574e8aeb6ab7fafe837"
+   "bytes": 11226,
+   "sha256": "4ca50eec1f27039fd7405dc1a1392bc98c206449d16ebe840580a4374939857a"
   },
   {
    "path": "code/reindex_allmetal.py",
-   "bytes": 8171,
-   "sha256": "32fc25e4fa6c2f57e3b41be3b2d56c419230af5d5fd9e77ba44beae493ba3449"
+   "bytes": 8525,
+   "sha256": "65147194300f76fc5ad2e61eeedc972ba099144bd4cbb28c3584f7cab568f335"
   },
   {
    "path": "code/reindex_chalc_multimetal.py",
-   "bytes": 7122,
-   "sha256": "88964caab8726949703df518b712968282834c05816a4e7c267d8e8fd347d957"
+   "bytes": 7476,
+   "sha256": "75e633f75cd5f8843327e6d856552f8b4dd0da854ff5d3b0f3292a04313b8690"
   },
   {
    "path": "code/reindex_multihalide.py",
-   "bytes": 6997,
-   "sha256": "14313fc0f90b3fe0ba68e33a4203d40554fb5a2b72c1a22ff319c628c1a0313f"
+   "bytes": 7351,
+   "sha256": "2a68b4fb3dc0063d5d641e4ab8078a25f4335adb152a8849499400dbd822d0ce"
   },
   {
    "path": "code/retile_panel.py",
@@ -153,8 +153,8 @@
   },
   {
    "path": "data/validation_allmetal703.json",
-   "bytes": 411427,
-   "sha256": "e4673ff08c1ca9afab4f363be073c01da3761efe495c2c35c0d206866b46568a"
+   "bytes": 411426,
+   "sha256": "dd42858def261596ed19a8a2c24f4f65cf34dda17c607577ac3b164d59150eaf"
   },
   {
    "path": "data/validation_chalc_multimetal.json",
@@ -178,8 +178,8 @@
   },
   {
    "path": "data/wholenet_scale.json",
-   "bytes": 1018404,
-   "sha256": "d4e91ce023ce031e394e6e704e762d02fda23c9ad41981b657975902aacdce88"
+   "bytes": 952536,
+   "sha256": "13a2fee8a78e99b693eaf4935216aa55c99dbb5f9688e4dcbf16223234fa9b43"
   },
   {
    "path": "figures/Fig_cod_screen.png",
@@ -234,7 +234,7 @@
   {
    "path": "zenodo_metadata.json",
    "bytes": 1996,
-   "sha256": "c780579adfdab4213d369bc0ad9bd6aadcd3b29e63dfa37f7a5fda72cd645735"
+   "sha256": "0deab3e2c359f86188e7d36e8f3f537dd9f56379d283a318a573d79f0d513ba1"
   }
  ]
 }

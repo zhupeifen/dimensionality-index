@@ -97,26 +97,32 @@ def periodic_rank(br, metals_idx):
         adj.setdefault(i, []).append((j, np.array(T)))
     if not adj:
         return 0, []
-    start = sorted(adj.keys())[0]
-    pos = {start: np.zeros(3, int)}
-    stack = [start]
-    trans = []
-    while stack:
-        u = stack.pop()
-        for (v, T) in adj.get(u, []):
-            nv = pos[u] + T
-            if v not in pos:
-                pos[v] = nv
-                stack.append(v)
-            else:
-                delta = nv - pos[v]
-                if delta.any():
-                    trans.append(delta)
-    if not trans:
-        return 0, []
-    M = np.array(trans, dtype=float)
-    rank = np.linalg.matrix_rank(M, tol=1e-6)
-    return int(rank), trans
+    # every connected component is walked and the highest rank kept (corrected 14 Oct 2026;
+    # before, only the component holding the lowest-index metal was walked)
+    seen, best, best_trans = set(), 0, []
+    for start in sorted(adj.keys()):
+        if start in seen:
+            continue
+        pos = {start: np.zeros(3, int)}
+        stack = [start]
+        trans = []
+        while stack:
+            u = stack.pop()
+            for (v, T) in adj.get(u, []):
+                nv = pos[u] + T
+                if v not in pos:
+                    pos[v] = nv
+                    stack.append(v)
+                else:
+                    delta = nv - pos[v]
+                    if delta.any():
+                        trans.append(delta)
+        seen.update(pos)
+        if trans:
+            r = int(np.linalg.matrix_rank(np.array(trans, dtype=float), tol=1e-6))
+            if r > best or not best_trans:
+                best, best_trans = max(best, r), (trans if r > best or not best_trans else best_trans)
+    return best, best_trans
 
 
 def analyse(path, metals, halide="Cl"):
